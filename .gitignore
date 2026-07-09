@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+*.zip
+
+# Local build/history helpers that are useful on this machine but noisy on GitHub.
+archives/
+outputs/
+work/

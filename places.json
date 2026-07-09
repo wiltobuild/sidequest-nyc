@@ -1,0 +1,4149 @@
+[
+  {
+    "id": "lic-gantry-plaza",
+    "name": "Gantry Plaza State Park",
+    "borough": "Queens",
+    "kingdom": "LIC",
+    "latitude": 40.74155,
+    "longitude": -73.9496,
+    "address": "4-44 47th Rd, Long Island City, NY 11101, USA",
+    "googleRating": 4.8,
+    "googleReviewCount": 10072,
+    "hoursNote": "Monday: 8:00 AM – 10:00 PM | Tuesday: 8:00 AM – 10:00 PM | Wednesday: 8:00 AM – 10:00 PM | Thursday: 8:00 AM – 10:00 PM | Friday: 8:00 AM – 10:00 PM | Saturday: 8:00 AM – 10:00 PM | Sunday: 8:00 AM – 10:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Good low-pressure date spot.",
+      "Easy to enjoy without a big spend."
+    ],
+    "nearbyKingdoms": [
+      "Astoria",
+      "Sunnyside",
+      "Greenpoint"
+    ],
+    "neighborhood": "LIC",
+    "type": "scenic",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "romantic",
+      "budget-friendly",
+      "relaxed"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A waterfront skyline perch with piers, old gantries, benches, and a glowing view of Midtown across the river.",
+    "mapsQuery": "Gantry Plaza State Park LIC NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJ7eAADSJawokRObgUbl1g6mk",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "lic-hunters-point-south",
+    "name": "Hunter's Point South Park",
+    "borough": "Queens",
+    "kingdom": "LIC",
+    "latitude": 40.7465,
+    "longitude": -73.94465,
+    "address": "Center Blvd, Long Island City, NY 11101, USA",
+    "googleRating": 4.8,
+    "googleReviewCount": 5507,
+    "hoursNote": "Monday: 6:00 AM – 10:00 PM | Tuesday: 6:00 AM – 10:00 PM | Wednesday: 6:00 AM – 10:00 PM | Thursday: 6:00 AM – 10:00 PM | Friday: 6:00 AM – 10:00 PM | Saturday: 6:00 AM – 10:00 PM | Sunday: 6:00 AM – 10:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Easy to enjoy without a big spend.",
+      "Check the weather before you go."
+    ],
+    "nearbyKingdoms": [
+      "Astoria",
+      "Sunnyside",
+      "Greenpoint"
+    ],
+    "neighborhood": "LIC",
+    "type": "park",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "relaxed",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 50,
+    "description": "A polished riverside park with open lawns, ferry views, and enough space to reset between denser stops.",
+    "mapsQuery": "Hunter's Point South Park LIC NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJq4RIHhhZwokRki-8itJRkCM",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "lic-noguchi",
+    "name": "The Noguchi Museum",
+    "borough": "Queens",
+    "kingdom": "LIC",
+    "latitude": 40.74155,
+    "longitude": -73.94685,
+    "address": "9-01 33rd Rd, Astoria, NY 11106, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 1813,
+    "hoursNote": "Monday: Closed | Tuesday: Closed | Wednesday: 11:00 AM – 6:00 PM | Thursday: 11:00 AM – 6:00 PM | Friday: Closed | Saturday: 11:00 AM – 6:00 PM | Sunday: 11:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Leave room to browse slowly.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "Astoria",
+      "Sunnyside",
+      "Greenpoint"
+    ],
+    "neighborhood": "LIC",
+    "type": "museum",
+    "costLevel": "$$",
+    "vibes": [
+      "artsy",
+      "relaxed",
+      "scenic"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 75,
+    "description": "A calm sculpture museum and garden that feels like a quiet side chamber off the main city map.",
+    "mapsQuery": "The Noguchi Museum LIC NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJUZ0c7MpYwokRh8SiMzCXL98",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "lic-socrates",
+    "name": "Socrates Sculpture Park",
+    "borough": "Queens",
+    "kingdom": "LIC",
+    "latitude": 40.74155,
+    "longitude": -73.9529,
+    "address": "32-01 Vernon Blvd, Astoria, NY 11106, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 2102,
+    "hoursNote": "Check current hours before going",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly."
+    ],
+    "nearbyKingdoms": [
+      "Astoria",
+      "Sunnyside",
+      "Greenpoint"
+    ],
+    "neighborhood": "LIC",
+    "type": "park",
+    "costLevel": "free",
+    "vibes": [
+      "artsy",
+      "scenic",
+      "budget-friendly",
+      "weird/quirky"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "An open-air art park where large installations, river air, and skyline edges make the route feel improvised.",
+    "mapsQuery": "Socrates Sculpture Park LIC NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJvcjmWLVYwokRFz2FMdi00cA",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "lic-moma-ps1",
+    "name": "MoMA PS1",
+    "borough": "Queens",
+    "kingdom": "LIC",
+    "latitude": 40.7483,
+    "longitude": -73.94685,
+    "address": "22-25 Jackson Ave, Queens, NY 11101, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 3301,
+    "hoursNote": "Monday: 12:00 – 6:00 PM | Tuesday: Closed | Wednesday: Closed | Thursday: 12:00 – 6:00 PM | Friday: 12:00 – 6:00 PM | Saturday: 10:00 AM – 6:00 PM | Sunday: 12:00 – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Leave room to browse slowly.",
+      "Great for a more unusual SideQuest.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "Astoria",
+      "Sunnyside",
+      "Greenpoint"
+    ],
+    "neighborhood": "LIC",
+    "type": "museum",
+    "costLevel": "$$",
+    "vibes": [
+      "artsy",
+      "weird/quirky",
+      "adventurous"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 90,
+    "description": "A contemporary art anchor with experimental shows inside a former school building.",
+    "mapsQuery": "MoMA PS1 LIC NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJwfbFiiNZwokRN8hnF940DbY",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "lic-court-square-diner",
+    "name": "Court Square Diner",
+    "borough": "Queens",
+    "kingdom": "LIC",
+    "latitude": 40.74785,
+    "longitude": -73.9441,
+    "address": "45-30 23rd St, Long Island City, NY 11101, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 4142,
+    "hoursNote": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a LIC wander."
+    ],
+    "nearbyKingdoms": [
+      "Astoria",
+      "Sunnyside",
+      "Greenpoint"
+    ],
+    "neighborhood": "LIC",
+    "type": "food",
+    "costLevel": "$",
+    "vibes": [
+      "food-focused",
+      "relaxed",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A classic diner stop for unfussy comfort food before or after a Queens waterfront loop.",
+    "mapsQuery": "Court Square Diner LIC NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJN6wFwihZwokRMtxwzGii9PI",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "lic-sweetleaf",
+    "name": "Sweetleaf Coffee",
+    "borough": "Queens",
+    "kingdom": "LIC",
+    "latitude": 40.7447,
+    "longitude": -73.9452,
+    "address": "28-10 Jackson Ave, Long Island City, NY 11101, USA",
+    "googleRating": 4.3,
+    "googleReviewCount": 201,
+    "hoursNote": "Monday: 7:00 AM – 6:00 PM | Tuesday: 7:00 AM – 6:00 PM | Wednesday: 7:00 AM – 6:00 PM | Thursday: 7:00 AM – 6:00 PM | Friday: 7:00 AM – 6:00 PM | Saturday: 8:00 AM – 6:00 PM | Sunday: 8:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly.",
+      "Useful as a meet-up point before the route."
+    ],
+    "nearbyKingdoms": [
+      "Astoria",
+      "Sunnyside",
+      "Greenpoint"
+    ],
+    "neighborhood": "LIC",
+    "type": "coffee",
+    "costLevel": "$",
+    "vibes": [
+      "relaxed",
+      "artsy",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 35,
+    "description": "A neighborhood coffee base camp with enough character to make a low-key quest feel intentional.",
+    "mapsQuery": "Sweetleaf Coffee LIC NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJi_RCwARZwokRH1ONl0jWLcQ",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "lic-fifth-hammer",
+    "name": "Fifth Hammer Brewing",
+    "borough": "Queens",
+    "kingdom": "LIC",
+    "latitude": 40.74155,
+    "longitude": -73.94685,
+    "address": "10-28 46th Ave, Long Island City, NY 11101, USA",
+    "googleRating": 4.8,
+    "googleReviewCount": 839,
+    "hoursNote": "Monday: 2:00 – 10:00 PM | Tuesday: 2:00 – 11:00 PM | Wednesday: 2:00 – 11:00 PM | Thursday: 2:00 PM – 12:00 AM | Friday: 12:00 PM – 1:00 AM | Saturday: 12:00 PM – 1:00 AM | Sunday: 12:00 – 10:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Great for a more unusual SideQuest.",
+      "Pairs well with a LIC wander."
+    ],
+    "nearbyKingdoms": [
+      "Astoria",
+      "Sunnyside",
+      "Greenpoint"
+    ],
+    "neighborhood": "LIC",
+    "type": "activity",
+    "costLevel": "$$",
+    "vibes": [
+      "friends",
+      "weird/quirky",
+      "relaxed"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 60,
+    "description": "A lively brewery stop with playful programming and big group-table energy.",
+    "mapsQuery": "Fifth Hammer Brewing LIC NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJuTm0kSZZwokRfpu__p2SZQU",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "astoria-park",
+    "name": "Astoria Park",
+    "borough": "Queens",
+    "kingdom": "Astoria",
+    "latitude": 40.7635,
+    "longitude": -73.9268,
+    "address": "19 19th St, Astoria, NY 11105, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 12873,
+    "hoursNote": "Monday: 6:00 AM – 9:00 PM | Tuesday: 6:00 AM – 9:00 PM | Wednesday: 6:00 AM – 9:00 PM | Thursday: 6:00 AM – 9:00 PM | Friday: 6:00 AM – 9:00 PM | Saturday: 6:00 AM – 9:00 PM | Sunday: 6:00 AM – 9:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Easy to enjoy without a big spend.",
+      "Check the weather before you go."
+    ],
+    "nearbyKingdoms": [
+      "LIC",
+      "Sunnyside",
+      "Jackson Heights"
+    ],
+    "neighborhood": "Astoria",
+    "type": "park",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "relaxed",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 60,
+    "description": "A broad park under dramatic bridges with river views, paths, courts, and a classic Queens sunset mood.",
+    "mapsQuery": "Astoria Park Astoria NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJhTKnW1pfwokRybwkvof4QWs",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "astoria-moving-image",
+    "name": "Museum of the Moving Image",
+    "borough": "Queens",
+    "kingdom": "Astoria",
+    "latitude": 40.7653,
+    "longitude": -73.92295,
+    "address": "36-01 35th Ave, Queens, NY 11106, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 4345,
+    "hoursNote": "Monday: Closed | Tuesday: Closed | Wednesday: Closed | Thursday: 2:00 – 6:00 PM | Friday: 2:00 – 8:00 PM | Saturday: 11:00 AM – 6:00 PM | Sunday: 11:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Leave room to browse slowly.",
+      "Great for a more unusual SideQuest.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "LIC",
+      "Sunnyside",
+      "Jackson Heights"
+    ],
+    "neighborhood": "Astoria",
+    "type": "museum",
+    "costLevel": "$$",
+    "vibes": [
+      "artsy",
+      "weird/quirky",
+      "tourist"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 90,
+    "description": "A screen-culture museum full of film, television, games, costumes, and interactive nostalgia.",
+    "mapsQuery": "Museum of the Moving Image Astoria NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJAx_yUCVfwokRQ2xEBIWV21g",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "astoria-bohemian-hall",
+    "name": "Bohemian Hall Garden",
+    "borough": "Queens",
+    "kingdom": "Astoria",
+    "latitude": 40.7635,
+    "longitude": -73.9268,
+    "address": "29-19 24th Ave, Astoria, NY 11105, USA",
+    "googleRating": 4.3,
+    "googleReviewCount": 2345,
+    "hoursNote": "Monday: 11:00 AM – 12:00 AM | Tuesday: 2:00 PM – 12:00 AM | Wednesday: 12:00 PM – 12:00 AM | Thursday: 11:00 AM – 12:00 AM | Friday: 3:00 PM – 1:00 AM | Saturday: 12:00 PM – 2:30 AM | Sunday: 12:00 PM – 12:30 AM",
+    "photoUrl": "",
+    "localTips": [
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Astoria wander."
+    ],
+    "nearbyKingdoms": [
+      "LIC",
+      "Sunnyside",
+      "Jackson Heights"
+    ],
+    "neighborhood": "Astoria",
+    "type": "food",
+    "costLevel": "$$",
+    "vibes": [
+      "friends",
+      "food-focused",
+      "relaxed"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 75,
+    "description": "A roomy beer garden and Czech food hall that works well for a casual group quest.",
+    "mapsQuery": "Bohemian Hall Garden Astoria NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJtSsFAUNfwokRO3f-fhaB10E",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "astoria-steinway-stroll",
+    "name": "Steinway Street Food Stroll",
+    "borough": "Queens",
+    "kingdom": "Astoria",
+    "latitude": 40.7626,
+    "longitude": -73.92735,
+    "address": "31 Steinway St #2, Astoria, NY 11103, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 638,
+    "hoursNote": "Monday: 10:30 AM – 9:30 PM | Tuesday: 10:30 AM – 9:30 PM | Wednesday: 10:30 AM – 9:30 PM | Thursday: 10:30 AM – 9:30 PM | Friday: 10:30 AM – 9:30 PM | Saturday: 11:00 AM – 9:30 PM | Sunday: 11:00 AM – 9:30 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Astoria wander."
+    ],
+    "nearbyKingdoms": [
+      "LIC",
+      "Sunnyside",
+      "Jackson Heights"
+    ],
+    "neighborhood": "Astoria",
+    "type": "food",
+    "costLevel": "$",
+    "vibes": [
+      "food-focused",
+      "adventurous",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 75,
+    "description": "A choose-your-own-snack corridor with Middle Eastern sweets, kebabs, cafes, and late-night flavor.",
+    "mapsQuery": "Steinway Street Food Stroll Astoria NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJf5tQvD5fwokRSgm9luYPQ00",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "astoria-qed",
+    "name": "Q.E.D. Astoria",
+    "borough": "Queens",
+    "kingdom": "Astoria",
+    "latitude": 40.76485,
+    "longitude": -73.9202,
+    "address": "27-16 23rd Ave, Astoria, NY 11105, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 239,
+    "hoursNote": "Monday: 5:30 – 10:00 PM | Tuesday: 5:30 – 10:00 PM | Wednesday: 5:30 – 11:30 PM | Thursday: 5:30 – 11:30 PM | Friday: 5:30 PM – 1:00 AM | Saturday: 12:00 PM – 1:00 AM | Sunday: 12:00 – 10:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly.",
+      "Great for a more unusual SideQuest."
+    ],
+    "nearbyKingdoms": [
+      "LIC",
+      "Sunnyside",
+      "Jackson Heights"
+    ],
+    "neighborhood": "Astoria",
+    "type": "show",
+    "costLevel": "$",
+    "vibes": [
+      "weird/quirky",
+      "artsy",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 90,
+    "description": "A small performance room for comedy, storytelling, classes, and neighborhood-scale entertainment.",
+    "mapsQuery": "Q.E.D. Astoria Astoria NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJNVYeL11fwokRpL0Q4i0QURc",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "astoria-kinship",
+    "name": "Kinship Coffee",
+    "borough": "Queens",
+    "kingdom": "Astoria",
+    "latitude": 40.76575,
+    "longitude": -73.92295,
+    "address": "30-05 Steinway St, Astoria, NY 11103, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 313,
+    "hoursNote": "Monday: 7:00 AM – 6:00 PM | Tuesday: 7:00 AM – 6:00 PM | Wednesday: 7:00 AM – 6:00 PM | Thursday: 7:00 AM – 6:00 PM | Friday: 7:00 AM – 7:00 PM | Saturday: 7:00 AM – 7:00 PM | Sunday: 7:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly.",
+      "Useful as a meet-up point before the route."
+    ],
+    "nearbyKingdoms": [
+      "LIC",
+      "Sunnyside",
+      "Jackson Heights"
+    ],
+    "neighborhood": "Astoria",
+    "type": "coffee",
+    "costLevel": "$",
+    "vibes": [
+      "relaxed",
+      "artsy",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 35,
+    "description": "A compact coffee checkpoint for regrouping before a museum, park, or food crawl.",
+    "mapsQuery": "Kinship Coffee Astoria NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJj4vNpj9fwokRI4q9_PDK5hE",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "astoria-comfortland",
+    "name": "Comfortland",
+    "borough": "Queens",
+    "kingdom": "Astoria",
+    "latitude": 40.76305,
+    "longitude": -73.92075,
+    "address": "40-09 30th Ave., Astoria, NY 11103, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 913,
+    "hoursNote": "Monday: 9:00 AM – 9:00 PM | Tuesday: 9:00 AM – 9:00 PM | Wednesday: 9:00 AM – 9:00 PM | Thursday: 9:00 AM – 9:00 PM | Friday: 9:00 AM – 10:00 PM | Saturday: 9:00 AM – 10:00 PM | Sunday: 9:00 AM – 9:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint.",
+      "Great for a more unusual SideQuest."
+    ],
+    "nearbyKingdoms": [
+      "LIC",
+      "Sunnyside",
+      "Jackson Heights"
+    ],
+    "neighborhood": "Astoria",
+    "type": "dessert",
+    "costLevel": "$",
+    "vibes": [
+      "food-focused",
+      "weird/quirky",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 30,
+    "description": "A playful bakery and snack shop known for maximal sweets and cheerful chaos.",
+    "mapsQuery": "Comfortland Astoria NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJ-5jK5wZfwokRnAxXFeUiL9w",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "astoria-hell-gate",
+    "name": "Hell Gate Bridge Viewpoint",
+    "borough": "Queens",
+    "kingdom": "Astoria",
+    "latitude": 40.7608,
+    "longitude": -73.9279,
+    "address": "Astoria, NY 11105, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 203,
+    "hoursNote": "Check current hours before going",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Easy to enjoy without a big spend.",
+      "Great for a more unusual SideQuest."
+    ],
+    "nearbyKingdoms": [
+      "LIC",
+      "Sunnyside",
+      "Jackson Heights"
+    ],
+    "neighborhood": "Astoria",
+    "type": "scenic",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "weird/quirky",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 30,
+    "description": "A moody bridge-view stop that adds a little industrial fantasy to a waterfront route.",
+    "mapsQuery": "Hell Gate Bridge Viewpoint Astoria NYC",
+    "sourceNote": "Inspired by Atlas Obscura-style offbeat NYC discovery.",
+    "googlePlaceId": "ChIJ85xGu1lfwokRVClYsUw2OlE",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "kew-forest-park",
+    "name": "Forest Park Overlook",
+    "borough": "Queens",
+    "kingdom": "Kew Gardens",
+    "latitude": 40.7066,
+    "longitude": -73.82525,
+    "address": "The Overlook, Kew Gardens, NY 11415, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 2456,
+    "hoursNote": "Check current hours before going",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Easy to enjoy without a big spend.",
+      "Check the weather before you go."
+    ],
+    "nearbyKingdoms": [
+      "Forest Hills",
+      "Jamaica",
+      "Jackson Heights"
+    ],
+    "neighborhood": "Kew Gardens",
+    "type": "park",
+    "costLevel": "free",
+    "vibes": [
+      "relaxed",
+      "scenic",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 60,
+    "description": "A leafy, quieter Queens park route with trails, shade, and a break from street noise.",
+    "mapsQuery": "Forest Park Overlook Kew Gardens NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJ2-tB3KNgwokRUZfS1zpBFkw",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "kew-lefferts-blvd",
+    "name": "Lefferts Boulevard Shops",
+    "borough": "Queens",
+    "kingdom": "Kew Gardens",
+    "latitude": 40.7021,
+    "longitude": -73.82745,
+    "address": "80-64 Lefferts Blvd, Kew Gardens, NY 11415, USA",
+    "googleRating": 3.2,
+    "googleReviewCount": 9,
+    "hoursNote": "Monday: 6:00 AM – 2:00 AM | Tuesday: 6:00 AM – 2:00 AM | Wednesday: 6:00 AM – 12:00 AM | Thursday: 6:00 AM – 2:00 AM | Friday: 6:00 AM – 12:00 AM | Saturday: 6:00 AM – 12:00 AM | Sunday: Open 24 hours",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Kew Gardens wander."
+    ],
+    "nearbyKingdoms": [
+      "Forest Hills",
+      "Jamaica",
+      "Jackson Heights"
+    ],
+    "neighborhood": "Kew Gardens",
+    "type": "market",
+    "costLevel": "$",
+    "vibes": [
+      "relaxed",
+      "food-focused",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A small-town-feeling strip of bakeries, cafes, and errands that makes a gentle local quest.",
+    "mapsQuery": "Lefferts Boulevard Shops Kew Gardens NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJp22JZelhwokRL1fvUrqVTcQ",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "kew-austin-ale-house",
+    "name": "Austin's Ale House",
+    "borough": "Queens",
+    "kingdom": "Kew Gardens",
+    "latitude": 40.7039,
+    "longitude": -73.8236,
+    "address": "82-70 Austin St, Kew Gardens, NY 11415, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 1528,
+    "hoursNote": "Monday: 12:00 PM – 4:00 AM | Tuesday: 12:00 PM – 4:00 AM | Wednesday: 12:00 PM – 4:00 AM | Thursday: 12:00 PM – 4:00 AM | Friday: 12:00 PM – 4:00 AM | Saturday: 12:00 PM – 4:00 AM | Sunday: 12:00 PM – 4:00 AM",
+    "photoUrl": "",
+    "localTips": [
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Kew Gardens wander."
+    ],
+    "nearbyKingdoms": [
+      "Forest Hills",
+      "Jamaica",
+      "Jackson Heights"
+    ],
+    "neighborhood": "Kew Gardens",
+    "type": "food",
+    "costLevel": "$$",
+    "vibes": [
+      "friends",
+      "relaxed",
+      "food-focused"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 60,
+    "description": "A neighborhood pub-style meal stop near transit, useful when the quest needs an easy anchor.",
+    "mapsQuery": "Austin's Ale House Kew Gardens NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJ9-CAs7xgwokR0dG6ectdSDo",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "kew-cobblestones",
+    "name": "Kew Gardens Cinematic Streets",
+    "borough": "Queens",
+    "kingdom": "Kew Gardens",
+    "latitude": 40.7048,
+    "longitude": -73.82635,
+    "address": "6-83 Austin St, Kew Gardens, NY 11415, USA",
+    "googleRating": 3.9,
+    "googleReviewCount": 17,
+    "hoursNote": "Monday: 6:00 AM – 8:00 PM | Tuesday: 6:00 AM – 8:00 PM | Wednesday: 6:00 AM – 8:00 PM | Thursday: 6:00 AM – 8:00 PM | Friday: 6:00 AM – 8:00 PM | Saturday: 6:00 AM – 8:00 PM | Sunday: 6:00 AM – 8:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Easy to enjoy without a big spend.",
+      "Great for a more unusual SideQuest."
+    ],
+    "nearbyKingdoms": [
+      "Forest Hills",
+      "Jamaica",
+      "Jackson Heights"
+    ],
+    "neighborhood": "Kew Gardens",
+    "type": "activity",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "relaxed",
+      "weird/quirky",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 45,
+    "description": "A self-guided wander through tucked-away streets, old apartment houses, and quiet corners.",
+    "mapsQuery": "Kew Gardens Cinematic Streets Kew Gardens NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJAX6Rr7xgwokR2YzHXC-4FSU",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "kew-oak-ridge",
+    "name": "Oak Ridge in Forest Park",
+    "borough": "Queens",
+    "kingdom": "Kew Gardens",
+    "latitude": 40.7084,
+    "longitude": -73.8247,
+    "address": "Forest Pkwy #1, Woodhaven, NY 11421, USA",
+    "googleRating": 5,
+    "googleReviewCount": 12,
+    "hoursNote": "Check current hours before going",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Easy to enjoy without a big spend.",
+      "Pairs well with a Kew Gardens wander."
+    ],
+    "nearbyKingdoms": [
+      "Forest Hills",
+      "Jamaica",
+      "Jackson Heights"
+    ],
+    "neighborhood": "Kew Gardens",
+    "type": "activity",
+    "costLevel": "free",
+    "vibes": [
+      "adventurous",
+      "scenic",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 60,
+    "description": "A historic park building and surrounding green space that feels like a low-key woodland objective.",
+    "mapsQuery": "Oak Ridge in Forest Park Kew Gardens NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJp1C2eAD7ZUARS-2oe0qX-28",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "kew-homestead",
+    "name": "Kew Gardens Homestead Walk",
+    "borough": "Queens",
+    "kingdom": "Kew Gardens",
+    "latitude": 40.7021,
+    "longitude": -73.8302,
+    "address": "82-45 Grenfell St, Kew Gardens, NY 11415, USA",
+    "googleRating": 4,
+    "googleReviewCount": 44,
+    "hoursNote": "Monday: 9:00 AM – 5:00 PM | Tuesday: 9:00 AM – 5:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 9:00 AM – 5:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: Closed | Sunday: 9:00 AM – 5:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Easy to enjoy without a big spend.",
+      "Check the weather before you go."
+    ],
+    "nearbyKingdoms": [
+      "Forest Hills",
+      "Jamaica",
+      "Jackson Heights"
+    ],
+    "neighborhood": "Kew Gardens",
+    "type": "scenic",
+    "costLevel": "free",
+    "vibes": [
+      "relaxed",
+      "scenic",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 35,
+    "description": "A slow neighborhood loop with garden apartments, courtyards, and calmer Queens pacing.",
+    "mapsQuery": "Kew Gardens Homestead Walk Kew Gardens NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJ_Tv8WqNgwokRxvYA5F1aJVg",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "forest-hills-stadium",
+    "name": "Forest Hills Stadium",
+    "borough": "Queens",
+    "kingdom": "Forest Hills",
+    "latitude": 40.7196,
+    "longitude": -73.8481,
+    "address": "1 Tennis Pl, Forest Hills, NY 11375, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 3767,
+    "hoursNote": "Check current hours before going",
+    "photoUrl": "",
+    "localTips": [
+      "Leave room to browse slowly.",
+      "Check ticket details before heading out.",
+      "Pairs well with a Forest Hills wander."
+    ],
+    "nearbyKingdoms": [
+      "Kew Gardens",
+      "Jackson Heights",
+      "Jamaica"
+    ],
+    "neighborhood": "Forest Hills",
+    "type": "show",
+    "costLevel": "$$$",
+    "vibes": [
+      "tourist",
+      "friends",
+      "artsy"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 120,
+    "description": "A historic outdoor concert venue that turns a neighborhood evening into a proper event quest.",
+    "mapsQuery": "Forest Hills Stadium Forest Hills NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJxXOvwiNewokR7Pq5Cm_RdKY",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "forest-hills-gardens",
+    "name": "Forest Hills Gardens Walk",
+    "borough": "Queens",
+    "kingdom": "Forest Hills",
+    "latitude": 40.7187,
+    "longitude": -73.84205,
+    "address": "Richmond Hill, NY 11418, USA",
+    "googleRating": 4.8,
+    "googleReviewCount": 77,
+    "hoursNote": "Monday: 6:00 AM – 8:00 PM | Tuesday: 6:00 AM – 8:00 PM | Wednesday: 6:00 AM – 8:00 PM | Thursday: 6:00 AM – 8:00 PM | Friday: 6:00 AM – 8:00 PM | Saturday: 6:00 AM – 8:00 PM | Sunday: 6:00 AM – 8:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Good low-pressure date spot.",
+      "Easy to enjoy without a big spend."
+    ],
+    "nearbyKingdoms": [
+      "Kew Gardens",
+      "Jackson Heights",
+      "Jamaica"
+    ],
+    "neighborhood": "Forest Hills",
+    "type": "scenic",
+    "costLevel": "free",
+    "vibes": [
+      "romantic",
+      "relaxed",
+      "scenic",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 60,
+    "description": "A storybook-feeling residential wander with arches, greenery, and a surprisingly village-like mood.",
+    "mapsQuery": "Forest Hills Gardens Walk Forest Hills NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJgwpzESlfwokRq0T772eu4Xc",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "forest-hills-austin-st",
+    "name": "Austin Street Browse",
+    "borough": "Queens",
+    "kingdom": "Forest Hills",
+    "latitude": 40.72275,
+    "longitude": -73.8437,
+    "address": "71-63 Austin St, Forest Hills, NY 11375, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 757,
+    "hoursNote": "Monday: 11:00 AM – 9:00 PM | Tuesday: 11:00 AM – 9:00 PM | Wednesday: 11:00 AM – 9:00 PM | Thursday: 11:00 AM – 9:00 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: 11:00 AM – 9:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Forest Hills wander."
+    ],
+    "nearbyKingdoms": [
+      "Kew Gardens",
+      "Jackson Heights",
+      "Jamaica"
+    ],
+    "neighborhood": "Forest Hills",
+    "type": "market",
+    "costLevel": "$",
+    "vibes": [
+      "relaxed",
+      "food-focused",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 60,
+    "description": "A compact shopping and snack corridor where a quest can stay easy without feeling empty.",
+    "mapsQuery": "Austin Street Browse Forest Hills NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJW2Zo1fxfwokRthTEDh62wtA",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "forest-hills-martha",
+    "name": "Martha's Country Bakery",
+    "borough": "Queens",
+    "kingdom": "Forest Hills",
+    "latitude": 40.71825,
+    "longitude": -73.84205,
+    "address": "70-28 Austin St, Forest Hills, NY 11375, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 5878,
+    "hoursNote": "Monday: 6:00 AM – 12:00 AM | Tuesday: 6:00 AM – 12:00 AM | Wednesday: 6:00 AM – 12:00 AM | Thursday: 6:00 AM – 12:00 AM | Friday: 6:00 AM – 1:00 AM | Saturday: 6:00 AM – 1:00 AM | Sunday: 6:00 AM – 12:00 AM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Forest Hills wander."
+    ],
+    "nearbyKingdoms": [
+      "Kew Gardens",
+      "Jackson Heights",
+      "Jamaica"
+    ],
+    "neighborhood": "Forest Hills",
+    "type": "dessert",
+    "costLevel": "$",
+    "vibes": [
+      "food-focused",
+      "relaxed",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 35,
+    "description": "A generous dessert stop for cake slices, cookies, and sweet-table decision paralysis.",
+    "mapsQuery": "Martha's Country Bakery Forest Hills NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJr3n5MyFewokRT9dhgQhY86c",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "forest-hills-eddie",
+    "name": "Eddie's Sweet Shop",
+    "borough": "Queens",
+    "kingdom": "Forest Hills",
+    "latitude": 40.72095,
+    "longitude": -73.84755,
+    "address": "105-29 Metropolitan Ave #1, Flushing, NY 11375, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 1784,
+    "hoursNote": "Monday: Closed | Tuesday: Closed | Wednesday: 3:00 – 10:00 PM | Thursday: 3:00 – 10:00 PM | Friday: 3:00 – 11:00 PM | Saturday: 3:00 – 11:00 PM | Sunday: 3:00 – 10:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Good low-pressure date spot.",
+      "Works well as a snack or meal checkpoint.",
+      "Great for a more unusual SideQuest."
+    ],
+    "nearbyKingdoms": [
+      "Kew Gardens",
+      "Jackson Heights",
+      "Jamaica"
+    ],
+    "neighborhood": "Forest Hills",
+    "type": "dessert",
+    "costLevel": "$",
+    "vibes": [
+      "romantic",
+      "food-focused",
+      "weird/quirky"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 35,
+    "description": "An old-school ice cream parlor that feels like a preserved save point from another era.",
+    "mapsQuery": "Eddie's Sweet Shop Forest Hills NYC",
+    "sourceNote": "Inspired by Atlas Obscura-style offbeat NYC discovery.",
+    "googlePlaceId": "ChIJfcYoDBxewokRP_36CY8TUp8",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "forest-hills-bowls",
+    "name": "Station Square Photo Stop",
+    "borough": "Queens",
+    "kingdom": "Forest Hills",
+    "latitude": 40.7178,
+    "longitude": -73.84865,
+    "address": "2 Station Square, Flushing, NY 11375, USA",
+    "googleRating": 4.8,
+    "googleReviewCount": 36,
+    "hoursNote": "Check current hours before going",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Good low-pressure date spot.",
+      "Easy to enjoy without a big spend."
+    ],
+    "nearbyKingdoms": [
+      "Kew Gardens",
+      "Jackson Heights",
+      "Jamaica"
+    ],
+    "neighborhood": "Forest Hills",
+    "type": "scenic",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "romantic",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 25,
+    "description": "A compact architectural photo stop near the train, ideal as a gentle opening or final marker.",
+    "mapsQuery": "Station Square Photo Stop Forest Hills NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJdy5YZmtfwokRiuy6wTv60ZQ",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "wburg-domino",
+    "name": "Domino Park",
+    "borough": "Brooklyn",
+    "kingdom": "Williamsburg",
+    "latitude": 40.70495,
+    "longitude": -73.9582,
+    "address": "15 River St, Brooklyn, NY 11249, USA",
+    "googleRating": 4.8,
+    "googleReviewCount": 6556,
+    "hoursNote": "Monday: 6:00 AM – 11:00 PM | Tuesday: 6:00 AM – 11:00 PM | Wednesday: 6:00 AM – 11:00 PM | Thursday: 6:00 AM – 11:00 PM | Friday: 6:00 AM – 11:00 PM | Saturday: 6:00 AM – 11:00 PM | Sunday: 6:00 AM – 11:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Good low-pressure date spot.",
+      "Easy to enjoy without a big spend."
+    ],
+    "nearbyKingdoms": [
+      "Greenpoint",
+      "Bushwick",
+      "DUMBO"
+    ],
+    "neighborhood": "Williamsburg",
+    "type": "scenic",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "romantic",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A compact waterfront park with industrial relics, skyline views, and reliable golden-hour drama.",
+    "mapsQuery": "Domino Park Williamsburg NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJX7hLk0FZwokRFhRcjtylakg",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "wburg-smorgasburg",
+    "name": "Smorgasburg Williamsburg",
+    "borough": "Brooklyn",
+    "kingdom": "Williamsburg",
+    "latitude": 40.70765,
+    "longitude": -73.9604,
+    "address": "90 Kent Ave, Brooklyn, NY 11211, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 3792,
+    "hoursNote": "Monday: Closed | Tuesday: Closed | Wednesday: Closed | Thursday: Closed | Friday: Closed | Saturday: 11:00 AM – 6:00 PM | Sunday: Closed",
+    "photoUrl": "",
+    "localTips": [
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Williamsburg wander."
+    ],
+    "nearbyKingdoms": [
+      "Greenpoint",
+      "Bushwick",
+      "DUMBO"
+    ],
+    "neighborhood": "Williamsburg",
+    "type": "market",
+    "costLevel": "$$",
+    "vibes": [
+      "food-focused",
+      "friends",
+      "adventurous"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 90,
+    "description": "A seasonal open-air food market made for sampling, comparing, and building a snack-heavy party route.",
+    "mapsQuery": "Smorgasburg Williamsburg Williamsburg NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJ9-C4sWdZwokRjDucHJ5DepI",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "wburg-nitehawk",
+    "name": "Nitehawk Cinema Williamsburg",
+    "borough": "Brooklyn",
+    "kingdom": "Williamsburg",
+    "latitude": 40.709,
+    "longitude": -73.95655,
+    "address": "136 Metropolitan Ave, Brooklyn, NY 11249, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 1990,
+    "hoursNote": "Monday: 3:30 PM – 12:00 AM | Tuesday: 3:30 PM – 12:00 AM | Wednesday: 3:30 PM – 12:00 AM | Thursday: 3:30 PM – 12:00 AM | Friday: 1:00 PM – 12:00 AM | Saturday: 10:30 AM – 12:00 AM | Sunday: 10:30 AM – 12:00 AM",
+    "photoUrl": "",
+    "localTips": [
+      "Leave room to browse slowly.",
+      "Great for a more unusual SideQuest.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "Greenpoint",
+      "Bushwick",
+      "DUMBO"
+    ],
+    "neighborhood": "Williamsburg",
+    "type": "show",
+    "costLevel": "$$",
+    "vibes": [
+      "artsy",
+      "weird/quirky",
+      "relaxed"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 120,
+    "description": "A dine-in movie theater with cult picks, indie screenings, and cozy night-quest energy.",
+    "mapsQuery": "Nitehawk Cinema Williamsburg Williamsburg NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJMza4HWFZwokREyXlhbnRf5E",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "wburg-devocion",
+    "name": "Devocion Williamsburg",
+    "borough": "Brooklyn",
+    "kingdom": "Williamsburg",
+    "latitude": 40.7072,
+    "longitude": -73.95765,
+    "address": "148 Grand St, Brooklyn, NY 11249, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 2731,
+    "hoursNote": "Monday: 7:00 AM – 6:00 PM | Tuesday: 7:00 AM – 6:00 PM | Wednesday: 7:00 AM – 6:00 PM | Thursday: 7:00 AM – 6:00 PM | Friday: 7:00 AM – 6:00 PM | Saturday: 7:30 AM – 6:00 PM | Sunday: 7:30 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Works well as a snack or meal checkpoint.",
+      "Leave room to browse slowly.",
+      "Useful as a meet-up point before the route."
+    ],
+    "nearbyKingdoms": [
+      "Greenpoint",
+      "Bushwick",
+      "DUMBO"
+    ],
+    "neighborhood": "Williamsburg",
+    "type": "coffee",
+    "costLevel": "$",
+    "vibes": [
+      "relaxed",
+      "artsy",
+      "food-focused"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 35,
+    "description": "A lush coffee stop with a transportive indoor garden feel and strong pre-wander fuel.",
+    "mapsQuery": "Devocion Williamsburg Williamsburg NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJi7flemFZwokRDpIJuxfOGek",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "wburg-city-reliquary",
+    "name": "City Reliquary",
+    "borough": "Brooklyn",
+    "kingdom": "Williamsburg",
+    "latitude": 40.71125,
+    "longitude": -73.956,
+    "address": "370 Metropolitan Ave, Brooklyn, NY 11211, USA",
+    "googleRating": 4.3,
+    "googleReviewCount": 188,
+    "hoursNote": "Monday: Closed | Tuesday: Closed | Wednesday: Closed | Thursday: Closed | Friday: 12:00 – 6:00 PM | Saturday: 12:00 – 6:00 PM | Sunday: 12:00 – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly.",
+      "Great for a more unusual SideQuest."
+    ],
+    "nearbyKingdoms": [
+      "Greenpoint",
+      "Bushwick",
+      "DUMBO"
+    ],
+    "neighborhood": "Williamsburg",
+    "type": "museum",
+    "costLevel": "$",
+    "vibes": [
+      "weird/quirky",
+      "artsy",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A tiny cabinet of New York oddities, civic relics, and neighborhood lore.",
+    "mapsQuery": "City Reliquary Williamsburg NYC",
+    "sourceNote": "Inspired by Atlas Obscura-style offbeat NYC discovery.",
+    "googlePlaceId": "ChIJi_gUG19ZwokRVOVHajV6iTI",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "wburg-music-hall",
+    "name": "Music Hall of Williamsburg",
+    "borough": "Brooklyn",
+    "kingdom": "Williamsburg",
+    "latitude": 40.70675,
+    "longitude": -73.95765,
+    "address": "66 N 6th St, Brooklyn, NY 11211, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 1592,
+    "hoursNote": "Check current hours before going",
+    "photoUrl": "",
+    "localTips": [
+      "Leave room to browse slowly.",
+      "Check ticket details before heading out.",
+      "Pairs well with a Williamsburg wander."
+    ],
+    "nearbyKingdoms": [
+      "Greenpoint",
+      "Bushwick",
+      "DUMBO"
+    ],
+    "neighborhood": "Williamsburg",
+    "type": "show",
+    "costLevel": "$$",
+    "vibes": [
+      "artsy",
+      "friends",
+      "adventurous"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 120,
+    "description": "A reliable live-music objective for turning a casual evening into a full quest arc.",
+    "mapsQuery": "Music Hall of Williamsburg Williamsburg NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJwQCnGmdZwokRLMiSzjZtHwo",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "wburg-brooklyn-bowl",
+    "name": "Brooklyn Bowl",
+    "borough": "Brooklyn",
+    "kingdom": "Williamsburg",
+    "latitude": 40.7054,
+    "longitude": -73.9582,
+    "address": "61 Wythe Ave, Brooklyn, NY 11249, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 3955,
+    "hoursNote": "Check current hours before going",
+    "photoUrl": "",
+    "localTips": [
+      "Great for a more unusual SideQuest.",
+      "Pairs well with a Williamsburg wander."
+    ],
+    "nearbyKingdoms": [
+      "Greenpoint",
+      "Bushwick",
+      "DUMBO"
+    ],
+    "neighborhood": "Williamsburg",
+    "type": "activity",
+    "costLevel": "$$",
+    "vibes": [
+      "friends",
+      "weird/quirky",
+      "adventurous"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 90,
+    "description": "Bowling, music, and food collide in a big indoor side mission with group-friendly pacing.",
+    "mapsQuery": "Brooklyn Bowl Williamsburg NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJ0bhWy0JZwokRxxk-A6fJH1Q",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "dumbo-brooklyn-bridge-park",
+    "name": "Brooklyn Bridge Park",
+    "borough": "Brooklyn",
+    "kingdom": "DUMBO",
+    "latitude": 40.6997,
+    "longitude": -73.9925,
+    "address": "65 Plymouth St, Brooklyn, NY 11201, USA",
+    "googleRating": 4.8,
+    "googleReviewCount": 229,
+    "hoursNote": "Check current hours before going",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Good low-pressure date spot.",
+      "Easy to enjoy without a big spend."
+    ],
+    "nearbyKingdoms": [
+      "Brooklyn Heights",
+      "Williamsburg",
+      "Fort Greene"
+    ],
+    "neighborhood": "DUMBO",
+    "type": "park",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "romantic",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 60,
+    "description": "A waterfront route of piers, lawns, skyline angles, and classic bridge-photo payoff.",
+    "mapsQuery": "Brooklyn Bridge Park DUMBO NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJByiLwCxbwokRmeJXGaIJ5Dk",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "dumbo-timeout-market",
+    "name": "Time Out Market New York",
+    "borough": "Brooklyn",
+    "kingdom": "DUMBO",
+    "latitude": 40.7015,
+    "longitude": -73.99195,
+    "address": "55 Water St, Brooklyn, NY 11201, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 7994,
+    "hoursNote": "Monday: 8:00 AM – 10:00 PM | Tuesday: 8:00 AM – 10:00 PM | Wednesday: 8:00 AM – 10:00 PM | Thursday: 8:00 AM – 10:00 PM | Friday: 8:00 AM – 11:00 PM | Saturday: 8:00 AM – 11:00 PM | Sunday: 8:00 AM – 10:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a DUMBO wander."
+    ],
+    "nearbyKingdoms": [
+      "Brooklyn Heights",
+      "Williamsburg",
+      "Fort Greene"
+    ],
+    "neighborhood": "DUMBO",
+    "type": "market",
+    "costLevel": "$$",
+    "vibes": [
+      "food-focused",
+      "tourist",
+      "scenic"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 60,
+    "description": "A multi-vendor food hall with easy group choice and a rooftop-style view nearby.",
+    "mapsQuery": "Time Out Market New York DUMBO NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJ9aMCWaxbwokRZHJGmTBxFtQ",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "dumbo-jane-carousel",
+    "name": "Jane's Carousel",
+    "borough": "Brooklyn",
+    "kingdom": "DUMBO",
+    "latitude": 40.706,
+    "longitude": -73.9903,
+    "address": "1 Old, Dock St, Brooklyn, NY 11201, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 3420,
+    "hoursNote": "Monday: 10:00 AM – 6:50 PM | Tuesday: Closed | Wednesday: 10:00 AM – 6:50 PM | Thursday: 10:00 AM – 6:50 PM | Friday: 10:00 AM – 6:50 PM | Saturday: 10:00 AM – 6:50 PM | Sunday: 10:00 AM – 6:50 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Good low-pressure date spot.",
+      "Great for a more unusual SideQuest.",
+      "Pairs well with a DUMBO wander."
+    ],
+    "nearbyKingdoms": [
+      "Brooklyn Heights",
+      "Williamsburg",
+      "Fort Greene"
+    ],
+    "neighborhood": "DUMBO",
+    "type": "activity",
+    "costLevel": "$",
+    "vibes": [
+      "romantic",
+      "tourist",
+      "weird/quirky"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 30,
+    "description": "A restored carousel in a glass pavilion that gives the route a bright, storybook pause.",
+    "mapsQuery": "Jane's Carousel DUMBO NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJU9mVHzFawokRcNNO_Su8zGM",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "dumbo-empire-stores",
+    "name": "Empire Stores",
+    "borough": "Brooklyn",
+    "kingdom": "DUMBO",
+    "latitude": 40.70015,
+    "longitude": -73.9925,
+    "address": "53-83 Water St, Brooklyn, NY 11201, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 1892,
+    "hoursNote": "Monday: 8:00 AM – 12:00 AM | Tuesday: 8:00 AM – 12:00 AM | Wednesday: 8:00 AM – 12:00 AM | Thursday: 8:00 AM – 12:00 AM | Friday: 8:00 AM – 12:00 AM | Saturday: 8:00 AM – 12:00 AM | Sunday: 8:00 AM – 12:00 AM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a DUMBO wander."
+    ],
+    "nearbyKingdoms": [
+      "Brooklyn Heights",
+      "Williamsburg",
+      "Fort Greene"
+    ],
+    "neighborhood": "DUMBO",
+    "type": "market",
+    "costLevel": "$",
+    "vibes": [
+      "scenic",
+      "relaxed",
+      "food-focused"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A converted warehouse stop for browsing, snacks, and weatherproof views between waterfront moments.",
+    "mapsQuery": "Empire Stores DUMBO NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJR58zHDFawokRN15P2jS9i8Q",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "dumbo-st-anns",
+    "name": "St. Ann's Warehouse",
+    "borough": "Brooklyn",
+    "kingdom": "DUMBO",
+    "latitude": 40.70555,
+    "longitude": -73.9903,
+    "address": "45 Water St, Brooklyn, NY 11201, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 632,
+    "hoursNote": "Monday: Closed | Tuesday: 1:00 – 6:30 PM | Wednesday: 1:00 – 6:30 PM | Thursday: 1:00 – 6:30 PM | Friday: 1:00 – 6:30 PM | Saturday: 1:00 – 6:30 PM | Sunday: 1:00 – 6:30 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Good low-pressure date spot.",
+      "Leave room to browse slowly.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "Brooklyn Heights",
+      "Williamsburg",
+      "Fort Greene"
+    ],
+    "neighborhood": "DUMBO",
+    "type": "show",
+    "costLevel": "$$$",
+    "vibes": [
+      "artsy",
+      "romantic",
+      "tourist"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 120,
+    "description": "A dramatic performance venue tucked into the waterfront arts district.",
+    "mapsQuery": "St. Ann's Warehouse DUMBO NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJH36g4DBawokRaR-nQ4NPRJM",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "dumbo-archway",
+    "name": "DUMBO Archway",
+    "borough": "Brooklyn",
+    "kingdom": "DUMBO",
+    "latitude": 40.70195,
+    "longitude": -73.99195,
+    "address": "Adams St, Brooklyn, NY 11201, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 127,
+    "hoursNote": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly."
+    ],
+    "nearbyKingdoms": [
+      "Brooklyn Heights",
+      "Williamsburg",
+      "Fort Greene"
+    ],
+    "neighborhood": "DUMBO",
+    "type": "scenic",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "artsy",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 25,
+    "description": "A cobblestone photo and public-art stop beneath the Manhattan Bridge.",
+    "mapsQuery": "DUMBO Archway DUMBO NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJ8aD9xDNawokR6WIo5ckhJeQ",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "dumbo-powerhouse",
+    "name": "POWERHOUSE Arena",
+    "borough": "Brooklyn",
+    "kingdom": "DUMBO",
+    "latitude": 40.7006,
+    "longitude": -73.9925,
+    "address": "28 Adams St, Brooklyn, NY 11201, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 263,
+    "hoursNote": "Monday: 11:00 AM – 7:00 PM | Tuesday: 11:00 AM – 7:00 PM | Wednesday: 11:00 AM – 7:00 PM | Thursday: 11:00 AM – 7:00 PM | Friday: 11:00 AM – 7:00 PM | Saturday: 10:00 AM – 7:00 PM | Sunday: 10:00 AM – 7:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly.",
+      "Pairs well with a DUMBO wander."
+    ],
+    "nearbyKingdoms": [
+      "Brooklyn Heights",
+      "Williamsburg",
+      "Fort Greene"
+    ],
+    "neighborhood": "DUMBO",
+    "type": "bookstore",
+    "costLevel": "free",
+    "vibes": [
+      "artsy",
+      "relaxed",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 35,
+    "description": "A design-forward bookstore and event space that gives a scenic route a quieter chapter.",
+    "mapsQuery": "POWERHOUSE Arena DUMBO NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJi-GsFTFawokRE9iJoKgcOM0",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "park-slope-prospect-park",
+    "name": "Prospect Park Long Meadow",
+    "borough": "Brooklyn",
+    "kingdom": "Park Slope",
+    "latitude": 40.6711,
+    "longitude": -73.9814,
+    "address": "Prospect Park, 70 West Dr, Brooklyn, NY 11225, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 54,
+    "hoursNote": "Monday: 6:00 AM – 1:00 AM | Tuesday: 6:00 AM – 1:00 AM | Wednesday: 6:00 AM – 1:00 AM | Thursday: 6:00 AM – 1:00 AM | Friday: 6:00 AM – 1:00 AM | Saturday: 6:00 AM – 1:00 AM | Sunday: 6:00 AM – 1:00 AM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Easy to enjoy without a big spend.",
+      "Check the weather before you go."
+    ],
+    "nearbyKingdoms": [
+      "Brooklyn Heights",
+      "Fort Greene",
+      "DUMBO"
+    ],
+    "neighborhood": "Park Slope",
+    "type": "park",
+    "costLevel": "free",
+    "vibes": [
+      "relaxed",
+      "scenic",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 75,
+    "description": "A classic green escape with sweeping lawns and a calmer rhythm than Manhattan park loops.",
+    "mapsQuery": "Prospect Park Long Meadow Park Slope NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJa0zm7RtbwokRpFx2Blhon_c",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "park-slope-brooklyn-museum",
+    "name": "Brooklyn Museum",
+    "borough": "Brooklyn",
+    "kingdom": "Park Slope",
+    "latitude": 40.6711,
+    "longitude": -73.9847,
+    "address": "200 Eastern Pkwy, Brooklyn, NY 11238, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 10246,
+    "hoursNote": "Monday: Closed | Tuesday: Closed | Wednesday: 11:00 AM – 6:00 PM | Thursday: 11:00 AM – 6:00 PM | Friday: 11:00 AM – 6:00 PM | Saturday: 11:00 AM – 6:00 PM | Sunday: 11:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Leave room to browse slowly.",
+      "Check ticket details before heading out.",
+      "Pairs well with a Park Slope wander."
+    ],
+    "nearbyKingdoms": [
+      "Brooklyn Heights",
+      "Fort Greene",
+      "DUMBO"
+    ],
+    "neighborhood": "Park Slope",
+    "type": "museum",
+    "costLevel": "$$",
+    "vibes": [
+      "artsy",
+      "tourist",
+      "relaxed"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 90,
+    "description": "A large museum with ancient art, contemporary shows, fashion, design, and strong borough identity.",
+    "mapsQuery": "Brooklyn Museum Park Slope NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJyTmcRApbwokR-oXJRqpVI8Y",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "park-slope-botanic",
+    "name": "Brooklyn Botanic Garden",
+    "borough": "Brooklyn",
+    "kingdom": "Park Slope",
+    "latitude": 40.66795,
+    "longitude": -73.9825,
+    "address": "Brooklyn, NY 11238, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 15279,
+    "hoursNote": "Monday: Closed | Tuesday: 10:00 AM – 8:30 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 8:30 PM | Friday: 10:00 AM – 6:00 PM | Saturday: 10:00 AM – 6:00 PM | Sunday: 10:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Good low-pressure date spot.",
+      "Check the weather before you go."
+    ],
+    "nearbyKingdoms": [
+      "Brooklyn Heights",
+      "Fort Greene",
+      "DUMBO"
+    ],
+    "neighborhood": "Park Slope",
+    "type": "park",
+    "costLevel": "$$",
+    "vibes": [
+      "romantic",
+      "scenic",
+      "relaxed"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 90,
+    "description": "A garden quest of conservatories, seasonal blooms, and paths that slow the city down.",
+    "mapsQuery": "Brooklyn Botanic Garden Park Slope NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJwYu_aA5bwokR2lxjW-QvQlc",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "park-slope-union-market",
+    "name": "Union Market Park Slope",
+    "borough": "Brooklyn",
+    "kingdom": "Park Slope",
+    "latitude": 40.6738,
+    "longitude": -73.9836,
+    "address": "402-404 7th Ave, Brooklyn, NY 11215, USA",
+    "googleRating": 4.2,
+    "googleReviewCount": 418,
+    "hoursNote": "Monday: 7:00 AM – 9:00 PM | Tuesday: 7:00 AM – 9:00 PM | Wednesday: 7:00 AM – 9:00 PM | Thursday: 7:00 AM – 9:00 PM | Friday: 7:00 AM – 9:00 PM | Saturday: 7:00 AM – 9:00 PM | Sunday: 7:00 AM – 9:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Park Slope wander."
+    ],
+    "nearbyKingdoms": [
+      "Brooklyn Heights",
+      "Fort Greene",
+      "DUMBO"
+    ],
+    "neighborhood": "Park Slope",
+    "type": "market",
+    "costLevel": "$$",
+    "vibes": [
+      "food-focused",
+      "relaxed"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 35,
+    "description": "A polished provisions stop for picnic supplies or a quick food-focused detour.",
+    "mapsQuery": "Union Market Park Slope Park Slope NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJmcJlCKpbwokRdDOMUBqltxM",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "park-slope-community-bookstore",
+    "name": "Community Bookstore",
+    "borough": "Brooklyn",
+    "kingdom": "Park Slope",
+    "latitude": 40.6747,
+    "longitude": -73.97975,
+    "address": "143 7th Ave, Brooklyn, NY 11215, USA",
+    "googleRating": 4.8,
+    "googleReviewCount": 343,
+    "hoursNote": "Monday: 10:00 AM – 7:00 PM | Tuesday: 10:00 AM – 7:00 PM | Wednesday: 10:00 AM – 7:00 PM | Thursday: 10:00 AM – 7:00 PM | Friday: 10:00 AM – 7:00 PM | Saturday: 10:00 AM – 7:00 PM | Sunday: 10:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly.",
+      "Pairs well with a Park Slope wander."
+    ],
+    "nearbyKingdoms": [
+      "Brooklyn Heights",
+      "Fort Greene",
+      "DUMBO"
+    ],
+    "neighborhood": "Park Slope",
+    "type": "bookstore",
+    "costLevel": "free",
+    "vibes": [
+      "artsy",
+      "relaxed",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 35,
+    "description": "A cozy independent bookstore with a neighborhood-living-room feel.",
+    "mapsQuery": "Community Bookstore Park Slope NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJ-W1PKAdbwokRhDG1VgLSckw",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "park-slope-ample-hills",
+    "name": "Ample Hills Creamery",
+    "borough": "Brooklyn",
+    "kingdom": "Park Slope",
+    "latitude": 40.66885,
+    "longitude": -73.9792,
+    "address": "623 Vanderbilt Ave, Brooklyn, NY 11238, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 1973,
+    "hoursNote": "Monday: 1:00 – 11:00 PM | Tuesday: 1:00 – 11:00 PM | Wednesday: 1:00 – 11:00 PM | Thursday: 1:00 – 11:00 PM | Friday: 12:00 PM – 12:00 AM | Saturday: 12:00 PM – 12:00 AM | Sunday: 1:00 – 10:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Good low-pressure date spot.",
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint."
+    ],
+    "nearbyKingdoms": [
+      "Brooklyn Heights",
+      "Fort Greene",
+      "DUMBO"
+    ],
+    "neighborhood": "Park Slope",
+    "type": "dessert",
+    "costLevel": "$",
+    "vibes": [
+      "food-focused",
+      "romantic",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 30,
+    "description": "A cheerful ice cream stop that works as a sweet reward after park walking.",
+    "mapsQuery": "Ample Hills Creamery Park Slope NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJfRbPgKZbwokR2IDdM7N8cK4",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "les-tenement",
+    "name": "Tenement Museum",
+    "borough": "Manhattan",
+    "kingdom": "Lower East Side",
+    "latitude": 40.71545,
+    "longitude": -73.98705,
+    "address": "103 Orchard St, New York, NY 10002, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 5954,
+    "hoursNote": "Monday: 10:00 AM – 6:00 PM | Tuesday: 10:00 AM – 6:00 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 6:00 PM | Friday: 10:00 AM – 6:00 PM | Saturday: 10:00 AM – 6:00 PM | Sunday: 10:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Leave room to browse slowly.",
+      "Check ticket details before heading out.",
+      "Pairs well with a Lower East Side wander."
+    ],
+    "nearbyKingdoms": [
+      "East Village",
+      "SoHo",
+      "West Village"
+    ],
+    "neighborhood": "Lower East Side",
+    "type": "museum",
+    "costLevel": "$$",
+    "vibes": [
+      "tourist",
+      "artsy",
+      "relaxed"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 75,
+    "description": "A guided-history stop that turns preserved apartments into vivid immigrant New York stories.",
+    "mapsQuery": "Tenement Museum Lower East Side NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJ20bVJYdZwokRhI7esP3mYM0",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "les-economy-candy",
+    "name": "Economy Candy",
+    "borough": "Manhattan",
+    "kingdom": "Lower East Side",
+    "latitude": 40.71275,
+    "longitude": -73.9854,
+    "address": "108 Rivington St, New York, NY 10002, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 2544,
+    "hoursNote": "Monday: 11:00 AM – 6:00 PM | Tuesday: 11:00 AM – 6:00 PM | Wednesday: 11:00 AM – 6:00 PM | Thursday: 11:00 AM – 6:00 PM | Friday: 11:00 AM – 6:00 PM | Saturday: 11:00 AM – 6:00 PM | Sunday: 11:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint.",
+      "Great for a more unusual SideQuest."
+    ],
+    "nearbyKingdoms": [
+      "East Village",
+      "SoHo",
+      "West Village"
+    ],
+    "neighborhood": "Lower East Side",
+    "type": "dessert",
+    "costLevel": "$",
+    "vibes": [
+      "weird/quirky",
+      "food-focused",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 25,
+    "description": "A packed old-school candy shop full of nostalgic sweets and joyful decision overload.",
+    "mapsQuery": "Economy Candy Lower East Side NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJNdebOIFZwokR0JEfqeQONrQ",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "les-essex-market",
+    "name": "Essex Market",
+    "borough": "Manhattan",
+    "kingdom": "Lower East Side",
+    "latitude": 40.7168,
+    "longitude": -73.98375,
+    "address": "88 Essex St, New York, NY 10002, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 6932,
+    "hoursNote": "Monday: 8:00 AM – 8:00 PM | Tuesday: 8:00 AM – 8:00 PM | Wednesday: 8:00 AM – 8:00 PM | Thursday: 8:00 AM – 9:00 PM | Friday: 8:00 AM – 9:00 PM | Saturday: 8:00 AM – 9:00 PM | Sunday: 10:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Lower East Side wander."
+    ],
+    "nearbyKingdoms": [
+      "East Village",
+      "SoHo",
+      "West Village"
+    ],
+    "neighborhood": "Lower East Side",
+    "type": "market",
+    "costLevel": "$$",
+    "vibes": [
+      "food-focused",
+      "tourist",
+      "relaxed"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 60,
+    "description": "A modern neighborhood market with many food options and easy weatherproof pacing.",
+    "mapsQuery": "Essex Market Lower East Side NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJ7fydz4BZwokRl6FuOJM5QPU",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "les-new-museum",
+    "name": "New Museum",
+    "borough": "Manhattan",
+    "kingdom": "Lower East Side",
+    "latitude": 40.71185,
+    "longitude": -73.98265,
+    "address": "235 Bowery, New York, NY 10002, USA",
+    "googleRating": 4.1,
+    "googleReviewCount": 2683,
+    "hoursNote": "Monday: Closed | Tuesday: 11:00 AM – 6:00 PM | Wednesday: 11:00 AM – 6:00 PM | Thursday: 11:00 AM – 9:00 PM | Friday: 11:00 AM – 6:00 PM | Saturday: 11:00 AM – 6:00 PM | Sunday: 11:00 AM – 5:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Leave room to browse slowly.",
+      "Great for a more unusual SideQuest.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "East Village",
+      "SoHo",
+      "West Village"
+    ],
+    "neighborhood": "Lower East Side",
+    "type": "museum",
+    "costLevel": "$$",
+    "vibes": [
+      "artsy",
+      "weird/quirky",
+      "tourist"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 75,
+    "description": "A contemporary art tower for sharp, experimental, and conversation-starting exhibitions.",
+    "mapsQuery": "New Museum Lower East Side NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJlaRS3IVZwokR2llMD6dCt-U",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "les-attaboy",
+    "name": "Attaboy",
+    "borough": "Manhattan",
+    "kingdom": "Lower East Side",
+    "latitude": 40.71275,
+    "longitude": -73.98815,
+    "address": "134 Eldridge St, New York, NY 10002, USA",
+    "googleRating": 4.2,
+    "googleReviewCount": 1972,
+    "hoursNote": "Monday: 5:00 PM – 3:00 AM | Tuesday: 5:00 PM – 3:00 AM | Wednesday: 5:00 PM – 3:00 AM | Thursday: 5:00 PM – 3:00 AM | Friday: 5:00 PM – 3:00 AM | Saturday: 5:00 PM – 3:00 AM | Sunday: 5:00 PM – 3:00 AM",
+    "photoUrl": "",
+    "localTips": [
+      "Good low-pressure date spot.",
+      "Great for a more unusual SideQuest.",
+      "Pairs well with a Lower East Side wander."
+    ],
+    "nearbyKingdoms": [
+      "East Village",
+      "SoHo",
+      "West Village"
+    ],
+    "neighborhood": "Lower East Side",
+    "type": "activity",
+    "costLevel": "$$$",
+    "vibes": [
+      "romantic",
+      "weird/quirky"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 75,
+    "description": "A cocktail den for a splurge-style night quest where the menu is more conversation than list.",
+    "mapsQuery": "Attaboy Lower East Side NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJDbQMBIdZwokRVS4L8B8V5SA",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "les-orchard-st",
+    "name": "Orchard Street Gallery Walk",
+    "borough": "Manhattan",
+    "kingdom": "Lower East Side",
+    "latitude": 40.71455,
+    "longitude": -73.9876,
+    "address": "156 Orchard St, New York, NY 10002, USA",
+    "googleRating": 4.8,
+    "googleReviewCount": 57,
+    "hoursNote": "Monday: 12:00 – 5:00 PM | Tuesday: 11:00 AM – 6:00 PM | Wednesday: 11:00 AM – 6:00 PM | Thursday: 11:00 AM – 6:00 PM | Friday: 11:00 AM – 6:00 PM | Saturday: 11:00 AM – 6:00 PM | Sunday: 12:00 – 5:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly.",
+      "Pairs well with a Lower East Side wander."
+    ],
+    "nearbyKingdoms": [
+      "East Village",
+      "SoHo",
+      "West Village"
+    ],
+    "neighborhood": "Lower East Side",
+    "type": "activity",
+    "costLevel": "free",
+    "vibes": [
+      "artsy",
+      "budget-friendly",
+      "relaxed"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 60,
+    "description": "A flexible gallery-and-window-shopping route through one of downtown's best wander corridors.",
+    "mapsQuery": "Orchard Street Gallery Walk Lower East Side NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJYXEzUoFZwokRLAywVHfZfn8",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "les-kossars",
+    "name": "Kossar's Bagels & Bialys",
+    "borough": "Manhattan",
+    "kingdom": "Lower East Side",
+    "latitude": 40.7132,
+    "longitude": -73.98485,
+    "address": "367 Grand St, New York, NY 10002, USA",
+    "googleRating": 4,
+    "googleReviewCount": 860,
+    "hoursNote": "Monday: 6:00 AM – 4:00 PM | Tuesday: 6:00 AM – 4:00 PM | Wednesday: 6:00 AM – 4:00 PM | Thursday: 6:00 AM – 4:00 PM | Friday: 6:00 AM – 5:00 PM | Saturday: 6:00 AM – 5:00 PM | Sunday: 6:00 AM – 5:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Lower East Side wander."
+    ],
+    "nearbyKingdoms": [
+      "East Village",
+      "SoHo",
+      "West Village"
+    ],
+    "neighborhood": "Lower East Side",
+    "type": "food",
+    "costLevel": "$",
+    "vibes": [
+      "food-focused",
+      "budget-friendly",
+      "tourist"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 30,
+    "description": "A classic baked-goods checkpoint for bialys, bagels, and old-neighborhood flavor.",
+    "mapsQuery": "Kossar's Bagels & Bialys Lower East Side NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJcWoDq4BZwokRFDtV51j09Hg",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "ev-st-marks",
+    "name": "St. Marks Place Snack Walk",
+    "borough": "Manhattan",
+    "kingdom": "East Village",
+    "latitude": 40.72785,
+    "longitude": -73.98425,
+    "address": "34 St Marks Pl, New York, NY 10003, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 286,
+    "hoursNote": "Monday: 11:00 AM – 10:00 PM | Tuesday: 11:00 AM – 10:00 PM | Wednesday: 11:00 AM – 10:00 PM | Thursday: 11:00 AM – 10:00 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: 11:00 AM – 10:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint.",
+      "Great for a more unusual SideQuest."
+    ],
+    "nearbyKingdoms": [
+      "Lower East Side",
+      "West Village",
+      "SoHo"
+    ],
+    "neighborhood": "East Village",
+    "type": "food",
+    "costLevel": "$",
+    "vibes": [
+      "food-focused",
+      "weird/quirky",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 75,
+    "description": "A dense corridor of quick bites, sweets, record shops, and downtown people-watching.",
+    "mapsQuery": "St. Marks Place Snack Walk East Village NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJ4_gsGRVZwokRU5rXgn6GIFE",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "ev-mcsorleys",
+    "name": "McSorley's Old Ale House",
+    "borough": "Manhattan",
+    "kingdom": "East Village",
+    "latitude": 40.7301,
+    "longitude": -73.97985,
+    "address": "15 E 7th St, New York, NY 10003, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 8777,
+    "hoursNote": "Monday: 11:00 AM – 1:00 AM | Tuesday: 11:00 AM – 1:00 AM | Wednesday: 11:00 AM – 1:00 AM | Thursday: 11:00 AM – 1:00 AM | Friday: 11:00 AM – 1:00 AM | Saturday: 11:00 AM – 1:00 AM | Sunday: 12:00 PM – 1:00 AM",
+    "photoUrl": "",
+    "localTips": [
+      "Great for a more unusual SideQuest.",
+      "Pairs well with a East Village wander."
+    ],
+    "nearbyKingdoms": [
+      "Lower East Side",
+      "West Village",
+      "SoHo"
+    ],
+    "neighborhood": "East Village",
+    "type": "activity",
+    "costLevel": "$",
+    "vibes": [
+      "tourist",
+      "weird/quirky",
+      "friends"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A historic tavern stop with sawdust floors, old walls, and a no-frills time-capsule feel.",
+    "mapsQuery": "McSorley's Old Ale House East Village NYC",
+    "sourceNote": "Inspired by Atlas Obscura-style offbeat NYC discovery.",
+    "googlePlaceId": "ChIJGdCSd5tZwokRfYvMyzO7qtE",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "ev-nuyorican",
+    "name": "Nuyorican Poets Cafe",
+    "borough": "Manhattan",
+    "kingdom": "East Village",
+    "latitude": 40.72605,
+    "longitude": -73.9815,
+    "address": "236 E 3rd St, New York, NY 10009, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 938,
+    "hoursNote": "Monday: 12:00 PM – 12:00 AM | Tuesday: Closed | Wednesday: 12:00 PM – 12:00 AM | Thursday: Closed | Friday: 12:00 PM – 12:00 AM | Saturday: Closed | Sunday: Closed",
+    "photoUrl": "",
+    "localTips": [
+      "Leave room to browse slowly.",
+      "Great for a more unusual SideQuest.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "Lower East Side",
+      "West Village",
+      "SoHo"
+    ],
+    "neighborhood": "East Village",
+    "type": "show",
+    "costLevel": "$$",
+    "vibes": [
+      "artsy",
+      "weird/quirky",
+      "adventurous"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 90,
+    "description": "A legendary performance room for poetry, music, and downtown creative energy.",
+    "mapsQuery": "Nuyorican Poets Cafe East Village NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJa9ykPA72wokR6xb4TkIDNcM",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "ev-tompkinssq",
+    "name": "Tompkins Square Park",
+    "borough": "Manhattan",
+    "kingdom": "East Village",
+    "latitude": 40.7229,
+    "longitude": -73.9859,
+    "address": "E 10th St, New York, NY 10009, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 5991,
+    "hoursNote": "Monday: 6:00 AM – 12:00 AM | Tuesday: 6:00 AM – 12:00 AM | Wednesday: 6:00 AM – 12:00 AM | Thursday: 6:00 AM – 12:00 AM | Friday: 6:00 AM – 12:00 AM | Saturday: 6:00 AM – 12:00 AM | Sunday: 6:00 AM – 12:00 AM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Great for a more unusual SideQuest.",
+      "Check the weather before you go."
+    ],
+    "nearbyKingdoms": [
+      "Lower East Side",
+      "West Village",
+      "SoHo"
+    ],
+    "neighborhood": "East Village",
+    "type": "park",
+    "costLevel": "free",
+    "vibes": [
+      "relaxed",
+      "weird/quirky",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A neighborhood park with punk history, dog-run energy, shade, and strong East Village texture.",
+    "mapsQuery": "Tompkins Square Park East Village NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJgTDll51ZwokRVjN7KXztwXY",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "ev-book-club",
+    "name": "Book Club Bar",
+    "borough": "Manhattan",
+    "kingdom": "East Village",
+    "latitude": 40.7238,
+    "longitude": -73.9793,
+    "address": "197 E 3rd St, New York, NY 10009, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 1053,
+    "hoursNote": "Monday: 9:00 AM – 12:00 AM | Tuesday: 9:00 AM – 12:00 AM | Wednesday: 9:00 AM – 12:00 AM | Thursday: 9:00 AM – 1:00 AM | Friday: 9:00 AM – 1:00 AM | Saturday: 9:00 AM – 1:00 AM | Sunday: 9:00 AM – 12:00 AM",
+    "photoUrl": "",
+    "localTips": [
+      "Good low-pressure date spot.",
+      "Leave room to browse slowly.",
+      "Pairs well with a East Village wander."
+    ],
+    "nearbyKingdoms": [
+      "Lower East Side",
+      "West Village",
+      "SoHo"
+    ],
+    "neighborhood": "East Village",
+    "type": "bookstore",
+    "costLevel": "$",
+    "vibes": [
+      "artsy",
+      "relaxed",
+      "romantic"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A bookstore-cafe-bar hybrid where browsing and lingering feel equally valid.",
+    "mapsQuery": "Book Club Bar East Village NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJwxHj5iBZwokR_pY9e5OhHNs",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "ev-venieros",
+    "name": "Veniero's Pasticceria",
+    "borough": "Manhattan",
+    "kingdom": "East Village",
+    "latitude": 40.7229,
+    "longitude": -73.98315,
+    "address": "342 E 11th St, New York, NY 10003, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 5415,
+    "hoursNote": "Monday: 8:00 AM – 10:00 PM | Tuesday: 8:00 AM – 10:00 PM | Wednesday: 8:00 AM – 10:00 PM | Thursday: 8:00 AM – 10:00 PM | Friday: 8:00 AM – 10:00 PM | Saturday: 8:00 AM – 10:00 PM | Sunday: 8:00 AM – 10:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Good low-pressure date spot.",
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a East Village wander."
+    ],
+    "nearbyKingdoms": [
+      "Lower East Side",
+      "West Village",
+      "SoHo"
+    ],
+    "neighborhood": "East Village",
+    "type": "dessert",
+    "costLevel": "$",
+    "vibes": [
+      "food-focused",
+      "romantic",
+      "tourist"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 35,
+    "description": "A long-running Italian pastry stop for cannoli, cheesecake, cookies, and old-school glow.",
+    "mapsQuery": "Veniero's Pasticceria East Village NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJ7yAJwJ1ZwokR1Y-x_5Dg434",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "ev-merchant-house",
+    "name": "Merchant's House Museum",
+    "borough": "Manhattan",
+    "kingdom": "East Village",
+    "latitude": 40.72605,
+    "longitude": -73.9815,
+    "address": "29 E 4th St, New York, NY 10003, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 534,
+    "hoursNote": "Monday: Closed | Tuesday: Closed | Wednesday: 12:00 – 5:00 PM | Thursday: 12:00 – 5:00 PM | Friday: 12:00 – 5:00 PM | Saturday: 12:00 – 5:00 PM | Sunday: 12:00 – 5:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Leave room to browse slowly.",
+      "Great for a more unusual SideQuest.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "Lower East Side",
+      "West Village",
+      "SoHo"
+    ],
+    "neighborhood": "East Village",
+    "type": "museum",
+    "costLevel": "$",
+    "vibes": [
+      "weird/quirky",
+      "artsy",
+      "tourist"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 60,
+    "description": "A preserved 19th-century home that feels like stepping into a haunted side chapter.",
+    "mapsQuery": "Merchant's House Museum East Village NYC",
+    "sourceNote": "Inspired by Atlas Obscura-style offbeat NYC discovery.",
+    "googlePlaceId": "ChIJCWqa2ppZwokRj3c3kcIR9x4",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "wv-washington-square",
+    "name": "Washington Square Park",
+    "borough": "Manhattan",
+    "kingdom": "West Village",
+    "latitude": 40.7322,
+    "longitude": -74.00195,
+    "address": "New York, NY 10012, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 32876,
+    "hoursNote": "Monday: 6:00 AM – 12:00 AM | Tuesday: 6:00 AM – 12:00 AM | Wednesday: 6:00 AM – 12:00 AM | Thursday: 6:00 AM – 12:00 AM | Friday: 6:00 AM – 12:00 AM | Saturday: 6:00 AM – 12:00 AM | Sunday: 6:00 AM – 12:00 AM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly."
+    ],
+    "nearbyKingdoms": [
+      "Chelsea",
+      "SoHo",
+      "East Village"
+    ],
+    "neighborhood": "West Village",
+    "type": "park",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "artsy",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A classic downtown gathering point with performers, chess tables, arch views, and constant motion.",
+    "mapsQuery": "Washington Square Park West Village NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJjX494pBZwokRGH620d9eYfo",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "wv-comedy-cellar",
+    "name": "Comedy Cellar",
+    "borough": "Manhattan",
+    "kingdom": "West Village",
+    "latitude": 40.7385,
+    "longitude": -74.0058,
+    "address": "117 MacDougal St, New York, NY 10012, USA",
+    "googleRating": 4.8,
+    "googleReviewCount": 7983,
+    "hoursNote": "Monday: 11:00 AM – 3:00 AM | Tuesday: 11:00 AM – 3:00 AM | Wednesday: 11:00 AM – 3:00 AM | Thursday: 11:00 AM – 3:00 AM | Friday: 11:00 AM – 3:00 AM | Saturday: 11:00 AM – 3:00 AM | Sunday: 11:00 AM – 3:00 AM",
+    "photoUrl": "",
+    "localTips": [
+      "Great for a more unusual SideQuest.",
+      "Check ticket details before heading out.",
+      "Pairs well with a West Village wander."
+    ],
+    "nearbyKingdoms": [
+      "Chelsea",
+      "SoHo",
+      "East Village"
+    ],
+    "neighborhood": "West Village",
+    "type": "show",
+    "costLevel": "$$",
+    "vibes": [
+      "friends",
+      "weird/quirky",
+      "adventurous"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 100,
+    "description": "A basement comedy institution for a late quest with surprise-set potential.",
+    "mapsQuery": "Comedy Cellar West Village NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJmzPYgJFZwokRg4zUwTlZwtI",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "wv-magnolia",
+    "name": "Magnolia Bakery",
+    "borough": "Manhattan",
+    "kingdom": "West Village",
+    "latitude": 40.7322,
+    "longitude": -74.008,
+    "address": "401 Bleecker St, New York, NY 10014, USA",
+    "googleRating": 4.3,
+    "googleReviewCount": 5166,
+    "hoursNote": "Monday: 9:30 AM – 10:00 PM | Tuesday: 9:30 AM – 10:00 PM | Wednesday: 9:30 AM – 10:00 PM | Thursday: 9:30 AM – 10:00 PM | Friday: 9:30 AM – 11:00 PM | Saturday: 9:30 AM – 11:00 PM | Sunday: 9:30 AM – 10:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Good low-pressure date spot.",
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a West Village wander."
+    ],
+    "nearbyKingdoms": [
+      "Chelsea",
+      "SoHo",
+      "East Village"
+    ],
+    "neighborhood": "West Village",
+    "type": "dessert",
+    "costLevel": "$",
+    "vibes": [
+      "food-focused",
+      "tourist",
+      "romantic"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 25,
+    "description": "A cupcake-and-banana-pudding checkpoint that still makes a simple West Village reward.",
+    "mapsQuery": "Magnolia Bakery West Village NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJF9Du35RZwokRFGd0oc4diZs",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "wv-jefferson-market",
+    "name": "Jefferson Market Garden",
+    "borough": "Manhattan",
+    "kingdom": "West Village",
+    "latitude": 40.7376,
+    "longitude": -73.99975,
+    "address": "10 Greenwich Ave, New York, NY 10011, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 291,
+    "hoursNote": "Monday: Closed | Tuesday: 10:00 AM – 6:00 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 6:00 PM | Friday: 10:00 AM – 6:00 PM | Saturday: 10:00 AM – 6:00 PM | Sunday: 10:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Good low-pressure date spot.",
+      "Easy to enjoy without a big spend.",
+      "Check the weather before you go."
+    ],
+    "nearbyKingdoms": [
+      "Chelsea",
+      "SoHo",
+      "East Village"
+    ],
+    "neighborhood": "West Village",
+    "type": "scenic",
+    "costLevel": "free",
+    "vibes": [
+      "romantic",
+      "relaxed",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 30,
+    "description": "A pocket garden beside a storybook tower, ideal for a quiet pause.",
+    "mapsQuery": "Jefferson Market Garden West Village NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJq37Uk5ZZwokRwzc-KYIeYhY",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "wv-three-lives",
+    "name": "Three Lives & Company",
+    "borough": "Manhattan",
+    "kingdom": "West Village",
+    "latitude": 40.7394,
+    "longitude": -74.00195,
+    "address": "154 W 10th St, New York, NY 10014, USA",
+    "googleRating": 4.8,
+    "googleReviewCount": 577,
+    "hoursNote": "Monday: 10:00 AM – 7:00 PM | Tuesday: 10:00 AM – 7:00 PM | Wednesday: 10:00 AM – 7:00 PM | Thursday: 10:00 AM – 7:00 PM | Friday: 10:00 AM – 7:00 PM | Saturday: 10:00 AM – 7:00 PM | Sunday: 12:00 – 7:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Good low-pressure date spot.",
+      "Leave room to browse slowly.",
+      "Pairs well with a West Village wander."
+    ],
+    "nearbyKingdoms": [
+      "Chelsea",
+      "SoHo",
+      "East Village"
+    ],
+    "neighborhood": "West Village",
+    "type": "bookstore",
+    "costLevel": "free",
+    "vibes": [
+      "artsy",
+      "relaxed",
+      "romantic"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 35,
+    "description": "A beloved small bookstore with the right hush for a thoughtful side stop.",
+    "mapsQuery": "Three Lives & Company West Village NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJ4SYiPZRZwokRM_H1_7dJhMY",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "wv-stonewall",
+    "name": "Stonewall National Monument",
+    "borough": "Manhattan",
+    "kingdom": "West Village",
+    "latitude": 40.73625,
+    "longitude": -74.0003,
+    "address": "38-64 Christopher St, New York, NY 10014, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 676,
+    "hoursNote": "Monday: 7:00 AM – 8:00 PM | Tuesday: 7:00 AM – 8:00 PM | Wednesday: 7:00 AM – 8:00 PM | Thursday: 7:00 AM – 8:00 PM | Friday: 7:00 AM – 8:00 PM | Saturday: 7:00 AM – 8:00 PM | Sunday: 7:00 AM – 8:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "Chelsea",
+      "SoHo",
+      "East Village"
+    ],
+    "neighborhood": "West Village",
+    "type": "museum",
+    "costLevel": "free",
+    "vibes": [
+      "tourist",
+      "artsy",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 35,
+    "description": "A compact but meaningful history stop centered on LGBTQ+ civil rights memory.",
+    "mapsQuery": "Stonewall National Monument West Village NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJC-exc5RZwokRWb0fbD6ZBTc",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "chelsea-high-line",
+    "name": "The High Line",
+    "borough": "Manhattan",
+    "kingdom": "Chelsea",
+    "latitude": 40.7456,
+    "longitude": -74.00195,
+    "address": "New York, NY 10011, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 67571,
+    "hoursNote": "Monday: 7:00 AM – 10:00 PM | Tuesday: 7:00 AM – 10:00 PM | Wednesday: 7:00 AM – 10:00 PM | Thursday: 7:00 AM – 10:00 PM | Friday: 7:00 AM – 10:00 PM | Saturday: 7:00 AM – 10:00 PM | Sunday: 7:00 AM – 10:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Good low-pressure date spot.",
+      "Easy to enjoy without a big spend."
+    ],
+    "nearbyKingdoms": [
+      "West Village",
+      "Midtown",
+      "SoHo"
+    ],
+    "neighborhood": "Chelsea",
+    "type": "scenic",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "artsy",
+      "romantic",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 60,
+    "description": "An elevated park route with plantings, public art, architecture views, and steady city drama.",
+    "mapsQuery": "The High Line Chelsea NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJ5bQPhMdZwokRkTwKhVxhP1g",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "chelsea-market",
+    "name": "Chelsea Market",
+    "borough": "Manhattan",
+    "kingdom": "Chelsea",
+    "latitude": 40.74425,
+    "longitude": -73.9992,
+    "address": "75 9th Ave, New York, NY 10011, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 51859,
+    "hoursNote": "Monday: 7:00 AM – 10:00 PM | Tuesday: 7:00 AM – 10:00 PM | Wednesday: 7:00 AM – 10:00 PM | Thursday: 7:00 AM – 10:00 PM | Friday: 7:00 AM – 10:00 PM | Saturday: 7:00 AM – 10:00 PM | Sunday: 7:00 AM – 10:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Chelsea wander."
+    ],
+    "nearbyKingdoms": [
+      "West Village",
+      "Midtown",
+      "SoHo"
+    ],
+    "neighborhood": "Chelsea",
+    "type": "market",
+    "costLevel": "$$",
+    "vibes": [
+      "food-focused",
+      "tourist",
+      "relaxed"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 60,
+    "description": "A weatherproof food-and-shop hall that pairs easily with galleries or the High Line.",
+    "mapsQuery": "Chelsea Market Chelsea NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJw2lMFL9ZwokRosAtly52YX4",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "chelsea-galleries",
+    "name": "Chelsea Gallery Hop",
+    "borough": "Manhattan",
+    "kingdom": "Chelsea",
+    "latitude": 40.74515,
+    "longitude": -73.99865,
+    "address": "508 W 28th St, New York, NY 10001, USA",
+    "googleRating": 4.9,
+    "googleReviewCount": 11,
+    "hoursNote": "Monday: 10:00 AM – 6:00 PM | Tuesday: 10:00 AM – 6:00 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 6:00 PM | Friday: 10:00 AM – 6:00 PM | Saturday: 10:00 AM – 6:00 PM | Sunday: 10:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly.",
+      "Pairs well with a Chelsea wander."
+    ],
+    "nearbyKingdoms": [
+      "West Village",
+      "Midtown",
+      "SoHo"
+    ],
+    "neighborhood": "Chelsea",
+    "type": "activity",
+    "costLevel": "free",
+    "vibes": [
+      "artsy",
+      "budget-friendly",
+      "relaxed"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 75,
+    "description": "A flexible art crawl through white-box galleries where the route can be as short or deep as you want.",
+    "mapsQuery": "Chelsea Gallery Hop Chelsea NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJJcmWhnVZwokR0cKGZgFMaxE",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "chelsea-little-island",
+    "name": "Little Island",
+    "borough": "Manhattan",
+    "kingdom": "Chelsea",
+    "latitude": 40.74875,
+    "longitude": -74.0036,
+    "address": "Little Island, Pier 55 at Hudson River Park, Hudson River Greenway, New York, NY 10014, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 17488,
+    "hoursNote": "Monday: 6:00 AM – 12:00 AM | Tuesday: 6:00 AM – 12:00 AM | Wednesday: 6:00 AM – 12:00 AM | Thursday: 6:00 AM – 12:00 AM | Friday: 6:00 AM – 12:00 AM | Saturday: 6:00 AM – 12:00 AM | Sunday: 6:00 AM – 12:00 AM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Good low-pressure date spot.",
+      "Great for a more unusual SideQuest."
+    ],
+    "nearbyKingdoms": [
+      "West Village",
+      "Midtown",
+      "SoHo"
+    ],
+    "neighborhood": "Chelsea",
+    "type": "park",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "romantic",
+      "weird/quirky"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A playful waterfront park on sculptural piers with layered paths and river views.",
+    "mapsQuery": "Little Island Chelsea NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJL-CJmTFZwokRsPcqje_bn7w",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "chelsea-rubin-cafe",
+    "name": "Chelsea Cafe Reset",
+    "borough": "Manhattan",
+    "kingdom": "Chelsea",
+    "latitude": 40.74605,
+    "longitude": -74.0014,
+    "address": "218 W 23rd St, New York, NY 10011, USA",
+    "googleRating": 4.2,
+    "googleReviewCount": 670,
+    "hoursNote": "Monday: 7:00 AM – 11:00 PM | Tuesday: 7:00 AM – 11:00 PM | Wednesday: 7:00 AM – 11:00 PM | Thursday: 7:00 AM – 11:00 PM | Friday: 7:00 AM – 12:00 AM | Saturday: 7:00 AM – 12:00 AM | Sunday: 7:00 AM – 11:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly.",
+      "Useful as a meet-up point before the route."
+    ],
+    "nearbyKingdoms": [
+      "West Village",
+      "Midtown",
+      "SoHo"
+    ],
+    "neighborhood": "Chelsea",
+    "type": "coffee",
+    "costLevel": "$",
+    "vibes": [
+      "relaxed",
+      "artsy",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 35,
+    "description": "A low-key coffee pause near galleries and transit, useful for pacing a longer route.",
+    "mapsQuery": "Chelsea Cafe Reset Chelsea NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJq0lehvhZwokRZvP6X-Exl88",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "chelsea-joyce",
+    "name": "The Joyce Theater",
+    "borough": "Manhattan",
+    "kingdom": "Chelsea",
+    "latitude": 40.7501,
+    "longitude": -73.99975,
+    "address": "175 8th Ave, New York, NY 10011, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 1192,
+    "hoursNote": "Monday: 12:00 – 6:00 PM | Tuesday: 12:00 – 7:00 PM | Wednesday: 12:00 – 7:00 PM | Thursday: 12:00 – 7:00 PM | Friday: 12:00 – 7:00 PM | Saturday: 12:00 – 7:00 PM | Sunday: 12:00 – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Good low-pressure date spot.",
+      "Leave room to browse slowly.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "West Village",
+      "Midtown",
+      "SoHo"
+    ],
+    "neighborhood": "Chelsea",
+    "type": "show",
+    "costLevel": "$$",
+    "vibes": [
+      "artsy",
+      "romantic",
+      "relaxed"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 100,
+    "description": "A dance-focused theater that gives an artsy quest a polished evening finish.",
+    "mapsQuery": "The Joyce Theater Chelsea NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJ08b1_7tZwokRtbJxZjQbABM",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "midtown-grand-central",
+    "name": "Grand Central Whispering Gallery",
+    "borough": "Manhattan",
+    "kingdom": "Midtown",
+    "latitude": 40.7531,
+    "longitude": -73.9818,
+    "address": "89 E 42nd St, New York, NY 10017, USA",
+    "googleRating": 4.8,
+    "googleReviewCount": 256,
+    "hoursNote": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Great for a more unusual SideQuest.",
+      "Pairs well with a Midtown wander."
+    ],
+    "nearbyKingdoms": [
+      "Chelsea",
+      "West Village",
+      "Harlem"
+    ],
+    "neighborhood": "Midtown",
+    "type": "activity",
+    "costLevel": "free",
+    "vibes": [
+      "weird/quirky",
+      "tourist",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 25,
+    "description": "A tiny acoustic trick inside one of the city's grandest transit temples.",
+    "mapsQuery": "Grand Central Whispering Gallery Midtown NYC",
+    "sourceNote": "Inspired by Atlas Obscura-style offbeat NYC discovery.",
+    "googlePlaceId": "ChIJ75FhiAFZwokRgGYRKvPP_xU",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "midtown-bryant-park",
+    "name": "Bryant Park",
+    "borough": "Manhattan",
+    "kingdom": "Midtown",
+    "latitude": 40.7549,
+    "longitude": -73.9873,
+    "address": "New York, NY 10018, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 107386,
+    "hoursNote": "Monday: 7:00 AM – 11:00 PM | Tuesday: 7:00 AM – 11:00 PM | Wednesday: 7:00 AM – 11:00 PM | Thursday: 7:00 AM – 11:00 PM | Friday: 7:00 AM – 11:00 PM | Saturday: 7:00 AM – 11:00 PM | Sunday: 7:00 AM – 11:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Check the weather before you go.",
+      "Pairs well with a Midtown wander."
+    ],
+    "nearbyKingdoms": [
+      "Chelsea",
+      "West Village",
+      "Harlem"
+    ],
+    "neighborhood": "Midtown",
+    "type": "park",
+    "costLevel": "free",
+    "vibes": [
+      "relaxed",
+      "tourist",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A central lawn and cafe-table zone that works as an easy reset between major sights.",
+    "mapsQuery": "Bryant Park Midtown NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJvbGg56pZwokRp_E3JbivnLQ",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "midtown-moma",
+    "name": "Museum of Modern Art",
+    "borough": "Manhattan",
+    "kingdom": "Midtown",
+    "latitude": 40.7513,
+    "longitude": -73.98565,
+    "address": "11 W 53rd St, New York, NY 10019, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 59769,
+    "hoursNote": "Monday: 10:30 AM – 5:30 PM | Tuesday: 10:30 AM – 5:30 PM | Wednesday: 10:30 AM – 5:30 PM | Thursday: 10:30 AM – 5:30 PM | Friday: 10:30 AM – 8:30 PM | Saturday: 10:30 AM – 5:30 PM | Sunday: 10:30 AM – 5:30 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Leave room to browse slowly.",
+      "Check ticket details before heading out.",
+      "Pairs well with a Midtown wander."
+    ],
+    "nearbyKingdoms": [
+      "Chelsea",
+      "West Village",
+      "Harlem"
+    ],
+    "neighborhood": "Midtown",
+    "type": "museum",
+    "costLevel": "$$$",
+    "vibes": [
+      "artsy",
+      "tourist",
+      "relaxed"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 90,
+    "description": "A major modern-art anchor with famous works, design objects, and strong rainy-day value.",
+    "mapsQuery": "Museum of Modern Art Midtown NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJKxDbe_lYwokRVf__s8CPn-o",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "midtown-rockefeller",
+    "name": "Rockefeller Center Concourse",
+    "borough": "Manhattan",
+    "kingdom": "Midtown",
+    "latitude": 40.75535,
+    "longitude": -73.9807,
+    "address": "45 Rockefeller Plaza, New York, NY 10111, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 201440,
+    "hoursNote": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Pairs well with a Midtown wander."
+    ],
+    "nearbyKingdoms": [
+      "Chelsea",
+      "West Village",
+      "Harlem"
+    ],
+    "neighborhood": "Midtown",
+    "type": "market",
+    "costLevel": "$",
+    "vibes": [
+      "tourist",
+      "scenic",
+      "relaxed"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A central Midtown maze of shops, plazas, and landmark views without needing a full ticketed plan.",
+    "mapsQuery": "Rockefeller Center Concourse Midtown NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJ9U1mz_5YwokRosza1aAk0jM",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "midtown-diamond-district",
+    "name": "Diamond District Window Quest",
+    "borough": "Manhattan",
+    "kingdom": "Midtown",
+    "latitude": 40.7576,
+    "longitude": -73.9862,
+    "address": "44W W 47th St Mezz 2, New York, NY 10036, USA",
+    "googleRating": 4.3,
+    "googleReviewCount": 35,
+    "hoursNote": "Monday: 10:00 AM – 6:00 PM | Tuesday: 10:00 AM – 6:00 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 6:00 PM | Friday: 10:00 AM – 6:00 PM | Saturday: Closed | Sunday: Closed",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Great for a more unusual SideQuest.",
+      "Pairs well with a Midtown wander."
+    ],
+    "nearbyKingdoms": [
+      "Chelsea",
+      "West Village",
+      "Harlem"
+    ],
+    "neighborhood": "Midtown",
+    "type": "activity",
+    "costLevel": "free",
+    "vibes": [
+      "weird/quirky",
+      "tourist",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 25,
+    "description": "A short, glittering block-walk that feels like a mini treasure-market encounter.",
+    "mapsQuery": "Diamond District Window Quest Midtown NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJF8osx-JZwokRim1yavA85XE",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "midtown-koreatown",
+    "name": "Koreatown Snack Stop",
+    "borough": "Manhattan",
+    "kingdom": "Midtown",
+    "latitude": 40.7585,
+    "longitude": -73.98565,
+    "address": "34 W 32nd St, New York, NY 10001, USA",
+    "googleRating": 4.2,
+    "googleReviewCount": 457,
+    "hoursNote": "Monday: 5:10 PM – 1:30 AM | Tuesday: 5:10 PM – 1:30 AM | Wednesday: 5:10 PM – 1:30 AM | Thursday: 5:10 PM – 1:30 AM | Friday: 4:10 PM – 3:00 AM | Saturday: 4:10 PM – 3:00 AM | Sunday: 5:10 PM – 1:30 AM",
+    "photoUrl": "",
+    "localTips": [
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Midtown wander."
+    ],
+    "nearbyKingdoms": [
+      "Chelsea",
+      "West Village",
+      "Harlem"
+    ],
+    "neighborhood": "Midtown",
+    "type": "food",
+    "costLevel": "$$",
+    "vibes": [
+      "food-focused",
+      "friends",
+      "adventurous"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 60,
+    "description": "A dense food corridor for barbecue, bakeries, karaoke-adjacent energy, and late-night options.",
+    "mapsQuery": "Koreatown Snack Stop Midtown NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJ35vTJk1ZwokRPHdJAKnM1jw",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "harlem-studio-museum",
+    "name": "Studio Museum 127 Project Space",
+    "borough": "Manhattan",
+    "kingdom": "Harlem",
+    "latitude": 40.81475,
+    "longitude": -73.94815,
+    "address": "429 W 127th St f2, New York, NY 10027, USA",
+    "googleRating": 3.8,
+    "googleReviewCount": 13,
+    "hoursNote": "Monday: Closed | Tuesday: Closed | Wednesday: 11:00 AM – 6:00 PM | Thursday: 11:00 AM – 6:00 PM | Friday: 11:00 AM – 9:00 PM | Saturday: 11:00 AM – 9:00 AM | Sunday: 11:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "Midtown",
+      "Fordham",
+      "Belmont"
+    ],
+    "neighborhood": "Harlem",
+    "type": "museum",
+    "costLevel": "free",
+    "vibes": [
+      "artsy",
+      "budget-friendly",
+      "relaxed"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A Harlem art stop centered on artists of African descent and neighborhood cultural context.",
+    "mapsQuery": "Studio Museum 127 Project Space Harlem NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJ2-6uca33wokRCyhO9IgDt6U",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "harlem-apollo",
+    "name": "Apollo Theater",
+    "borough": "Manhattan",
+    "kingdom": "Harlem",
+    "latitude": 40.8152,
+    "longitude": -73.9421,
+    "address": "233 W 125th St 3rd Floor, New York, NY 10027, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 8313,
+    "hoursNote": "Check current hours before going",
+    "photoUrl": "",
+    "localTips": [
+      "Leave room to browse slowly.",
+      "Check ticket details before heading out.",
+      "Pairs well with a Harlem wander."
+    ],
+    "nearbyKingdoms": [
+      "Midtown",
+      "Fordham",
+      "Belmont"
+    ],
+    "neighborhood": "Harlem",
+    "type": "show",
+    "costLevel": "$$",
+    "vibes": [
+      "tourist",
+      "artsy",
+      "friends"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 100,
+    "description": "A legendary performance venue and landmark for music, comedy, and Harlem history.",
+    "mapsQuery": "Apollo Theater Harlem NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJRaWCMm32wokRLdyc4zmYzRw",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "harlem-marcus-garvey",
+    "name": "Marcus Garvey Park",
+    "borough": "Manhattan",
+    "kingdom": "Harlem",
+    "latitude": 40.81025,
+    "longitude": -73.94375,
+    "address": "6316 Mt Morris Park W, New York, NY 10027, USA",
+    "googleRating": 4.3,
+    "googleReviewCount": 4759,
+    "hoursNote": "Monday: 6:00 AM – 10:00 PM | Tuesday: 6:00 AM – 10:00 PM | Wednesday: 6:00 AM – 10:00 PM | Thursday: 6:00 AM – 10:00 PM | Friday: 6:00 AM – 10:00 PM | Saturday: 6:00 AM – 10:00 PM | Sunday: 6:00 AM – 10:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Easy to enjoy without a big spend.",
+      "Check the weather before you go."
+    ],
+    "nearbyKingdoms": [
+      "Midtown",
+      "Fordham",
+      "Belmont"
+    ],
+    "neighborhood": "Harlem",
+    "type": "park",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "relaxed",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 50,
+    "description": "A hilly neighborhood park with a watchtower, paths, and a stronger sense of terrain than expected.",
+    "mapsQuery": "Marcus Garvey Park Harlem NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJHa6lPAz2wokRlRyxNExaJbQ",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "harlem-sylvias",
+    "name": "Sylvia's",
+    "borough": "Manhattan",
+    "kingdom": "Harlem",
+    "latitude": 40.8134,
+    "longitude": -73.94595,
+    "address": "328 Malcolm X Blvd, New York, NY 10027, USA",
+    "googleRating": 4.3,
+    "googleReviewCount": 8934,
+    "hoursNote": "Monday: 11:00 AM – 8:00 PM | Tuesday: 11:00 AM – 8:00 PM | Wednesday: 11:00 AM – 10:00 PM | Thursday: 11:00 AM – 10:00 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: 11:00 AM – 8:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Harlem wander."
+    ],
+    "nearbyKingdoms": [
+      "Midtown",
+      "Fordham",
+      "Belmont"
+    ],
+    "neighborhood": "Harlem",
+    "type": "food",
+    "costLevel": "$$",
+    "vibes": [
+      "food-focused",
+      "tourist",
+      "relaxed"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 60,
+    "description": "A famous soul food stop that can anchor a Harlem food-focused quest.",
+    "mapsQuery": "Sylvia's Harlem NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJb8Xw0wz2wokRXhp1-HSLvkI",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "harlem-schomburg",
+    "name": "Schomburg Center",
+    "borough": "Manhattan",
+    "kingdom": "Harlem",
+    "latitude": 40.8152,
+    "longitude": -73.94815,
+    "address": "515 Malcolm X Blvd, New York, NY 10037, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 399,
+    "hoursNote": "Monday: 10:00 AM – 5:45 PM | Tuesday: 10:00 AM – 5:45 PM | Wednesday: 10:00 AM – 5:45 PM | Thursday: 10:00 AM – 5:45 PM | Friday: Closed | Saturday: 10:00 AM – 5:45 PM | Sunday: Closed",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "Midtown",
+      "Fordham",
+      "Belmont"
+    ],
+    "neighborhood": "Harlem",
+    "type": "museum",
+    "costLevel": "free",
+    "vibes": [
+      "artsy",
+      "tourist",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 60,
+    "description": "A research and exhibition center devoted to Black culture, history, and global diaspora stories.",
+    "mapsQuery": "Schomburg Center Harlem NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJ7etix3b2wokRKN_Pd9RLRHQ",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "harlem-sugar-hill",
+    "name": "Sugar Hill Children's Museum",
+    "borough": "Manhattan",
+    "kingdom": "Harlem",
+    "latitude": 40.81295,
+    "longitude": -73.94925,
+    "address": "898 St Nicholas Ave, New York, NY 10032, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 377,
+    "hoursNote": "Monday: Closed | Tuesday: Closed | Wednesday: Closed | Thursday: Closed | Friday: 10:00 AM – 5:00 PM | Saturday: 10:00 AM – 3:00 PM | Sunday: Closed",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "Midtown",
+      "Fordham",
+      "Belmont"
+    ],
+    "neighborhood": "Harlem",
+    "type": "museum",
+    "costLevel": "$",
+    "vibes": [
+      "artsy",
+      "relaxed",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 60,
+    "description": "A family-friendly arts stop with a neighborhood scale and creative programming.",
+    "mapsQuery": "Sugar Hill Children's Museum Harlem NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJZfbU2YD2wokRNXkL1ia93lA",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "fordham-botanical-garden",
+    "name": "New York Botanical Garden",
+    "borough": "Bronx",
+    "kingdom": "Fordham",
+    "latitude": 40.86375,
+    "longitude": -73.88675,
+    "address": "2900 Southern Blvd, Bronx, NY 10458, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 12919,
+    "hoursNote": "Monday: Closed | Tuesday: 10:00 AM – 6:00 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 6:00 PM | Friday: 10:00 AM – 6:00 PM | Saturday: 10:00 AM – 6:00 PM | Sunday: 10:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Good low-pressure date spot.",
+      "Check the weather before you go."
+    ],
+    "nearbyKingdoms": [
+      "Belmont",
+      "Kingsbridge",
+      "Harlem"
+    ],
+    "neighborhood": "Fordham",
+    "type": "park",
+    "costLevel": "$$",
+    "vibes": [
+      "romantic",
+      "scenic",
+      "relaxed"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 120,
+    "description": "A major garden quest of conservatories, forests, seasonal shows, and peaceful paths.",
+    "mapsQuery": "New York Botanical Garden Fordham NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJyRUHuHzzwokRPxVBNKhcP9c",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "fordham-bronx-zoo",
+    "name": "Bronx Zoo",
+    "borough": "Bronx",
+    "kingdom": "Fordham",
+    "latitude": 40.86105,
+    "longitude": -73.88785,
+    "address": "2300 Southern Blvd, Bronx, NY 10460, USA",
+    "googleRating": 4.6,
+    "googleReviewCount": 39228,
+    "hoursNote": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: 10:00 AM – 5:30 PM | Sunday: 10:00 AM – 5:30 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Pairs well with a Fordham wander."
+    ],
+    "nearbyKingdoms": [
+      "Belmont",
+      "Kingsbridge",
+      "Harlem"
+    ],
+    "neighborhood": "Fordham",
+    "type": "activity",
+    "costLevel": "$$$",
+    "vibes": [
+      "adventurous",
+      "tourist",
+      "scenic"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 150,
+    "description": "A full-scale adventure anchor with exhibits, paths, and enough variety for a long route.",
+    "mapsQuery": "Bronx Zoo Fordham NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJi9JqUYP0wokRLhCVlxy0bgU",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "fordham-edgar-allan-poe",
+    "name": "Edgar Allan Poe Cottage",
+    "borough": "Bronx",
+    "kingdom": "Fordham",
+    "latitude": 40.8597,
+    "longitude": -73.8884,
+    "address": "2640 Grand Concourse, Bronx, NY 10458, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 258,
+    "hoursNote": "Monday: Closed | Tuesday: Closed | Wednesday: Closed | Thursday: Closed | Friday: Closed | Saturday: 10:00 AM – 4:00 PM | Sunday: 1:00 – 5:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Leave room to browse slowly.",
+      "Great for a more unusual SideQuest.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "Belmont",
+      "Kingsbridge",
+      "Harlem"
+    ],
+    "neighborhood": "Fordham",
+    "type": "museum",
+    "costLevel": "$",
+    "vibes": [
+      "weird/quirky",
+      "artsy",
+      "tourist"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A small literary-history stop that adds gothic flavor to a Bronx quest.",
+    "mapsQuery": "Edgar Allan Poe Cottage Fordham NYC",
+    "sourceNote": "Inspired by Atlas Obscura-style offbeat NYC discovery.",
+    "googlePlaceId": "ChIJ1YpqNYHzwokRoH-gJs0TW1g",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "fordham-university-church",
+    "name": "Fordham University Church Grounds",
+    "borough": "Bronx",
+    "kingdom": "Fordham",
+    "latitude": 40.8588,
+    "longitude": -73.8884,
+    "address": "441 E Fordham Rd, Bronx, NY 10458, USA",
+    "googleRating": 4.8,
+    "googleReviewCount": 124,
+    "hoursNote": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Easy to enjoy without a big spend.",
+      "Check the weather before you go."
+    ],
+    "nearbyKingdoms": [
+      "Belmont",
+      "Kingsbridge",
+      "Harlem"
+    ],
+    "neighborhood": "Fordham",
+    "type": "scenic",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "relaxed",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 45,
+    "description": "A campus-adjacent stroll with old stone, lawns, and a quieter north-Bronx atmosphere.",
+    "mapsQuery": "Fordham University Church Grounds Fordham NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJ9-EeIn_zwokRZRvJvdSy2rI",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "fordham-road",
+    "name": "Fordham Road Shopping Quest",
+    "borough": "Bronx",
+    "kingdom": "Fordham",
+    "latitude": 40.8642,
+    "longitude": -73.8895,
+    "address": "426 E Fordham Rd, Bronx, NY 10458, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 179,
+    "hoursNote": "Monday: 12:00 – 7:00 PM | Tuesday: 10:00 AM – 7:00 PM | Wednesday: 10:00 AM – 7:00 PM | Thursday: 10:00 AM – 7:00 PM | Friday: 10:00 AM – 7:00 PM | Saturday: 10:00 AM – 7:00 PM | Sunday: 12:00 – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Pairs well with a Fordham wander."
+    ],
+    "nearbyKingdoms": [
+      "Belmont",
+      "Kingsbridge",
+      "Harlem"
+    ],
+    "neighborhood": "Fordham",
+    "type": "market",
+    "costLevel": "$",
+    "vibes": [
+      "friends",
+      "budget-friendly",
+      "adventurous"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 60,
+    "description": "A busy commercial corridor for browsing, snacks, and high-energy street texture.",
+    "mapsQuery": "Fordham Road Shopping Quest Fordham NYC",
+    "sourceNote": "Inspired by Time Out NYC-style things-to-do coverage.",
+    "googlePlaceId": "ChIJw4lEC4jzwokRWX1_VEiKzSo",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "fordham-prince-coffee",
+    "name": "Prince Coffee House",
+    "borough": "Bronx",
+    "kingdom": "Fordham",
+    "latitude": 40.8624,
+    "longitude": -73.8873,
+    "address": "2306 Arthur Ave, Bronx, NY 10458, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 1049,
+    "hoursNote": "Monday: 7:00 AM – 11:00 PM | Tuesday: 7:00 AM – 11:00 PM | Wednesday: 7:00 AM – 11:00 PM | Thursday: 7:00 AM – 11:00 PM | Friday: 7:00 AM – 11:00 PM | Saturday: 7:00 AM – 11:00 PM | Sunday: 7:00 AM – 11:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint.",
+      "Useful as a meet-up point before the route."
+    ],
+    "nearbyKingdoms": [
+      "Belmont",
+      "Kingsbridge",
+      "Harlem"
+    ],
+    "neighborhood": "Fordham",
+    "type": "coffee",
+    "costLevel": "$",
+    "vibes": [
+      "relaxed",
+      "food-focused",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 35,
+    "description": "A neighborhood cafe checkpoint before a garden, zoo, or Fordham Road route.",
+    "mapsQuery": "Prince Coffee House Fordham NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJdW30iX30wokR8IOuXuBul0o",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "belmont-arthur-market",
+    "name": "Arthur Avenue Retail Market",
+    "borough": "Bronx",
+    "kingdom": "Belmont",
+    "latitude": 40.85385,
+    "longitude": -73.8903,
+    "address": "2344 Arthur Ave, Bronx, NY 10458, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 1085,
+    "hoursNote": "Monday: 9:00 AM – 5:00 PM | Tuesday: 9:00 AM – 5:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 9:00 AM – 5:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: 9:00 AM – 5:00 PM | Sunday: Closed",
+    "photoUrl": "",
+    "localTips": [
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Belmont wander."
+    ],
+    "nearbyKingdoms": [
+      "Fordham",
+      "Kingsbridge",
+      "City Island"
+    ],
+    "neighborhood": "Belmont",
+    "type": "market",
+    "costLevel": "$$",
+    "vibes": [
+      "food-focused",
+      "tourist",
+      "relaxed"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 60,
+    "description": "An old-school indoor market for Italian groceries, sandwiches, espresso, and neighborhood flavor.",
+    "mapsQuery": "Arthur Avenue Retail Market Belmont NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJ7c01Q4f0wokRtV83m9kfAYc",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "belmont-casa-della",
+    "name": "Casa Della Mozzarella",
+    "borough": "Bronx",
+    "kingdom": "Belmont",
+    "latitude": 40.857,
+    "longitude": -73.8859,
+    "address": "604 E 187th St, Bronx, NY 10458, USA",
+    "googleRating": 4.8,
+    "googleReviewCount": 1204,
+    "hoursNote": "Monday: 7:30 AM – 6:00 PM | Tuesday: 7:30 AM – 6:00 PM | Wednesday: 7:30 AM – 6:00 PM | Thursday: 7:30 AM – 6:00 PM | Friday: 7:30 AM – 6:00 PM | Saturday: 7:30 AM – 6:00 PM | Sunday: 7:30 AM – 1:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Belmont wander."
+    ],
+    "nearbyKingdoms": [
+      "Fordham",
+      "Kingsbridge",
+      "City Island"
+    ],
+    "neighborhood": "Belmont",
+    "type": "food",
+    "costLevel": "$",
+    "vibes": [
+      "food-focused",
+      "budget-friendly",
+      "tourist"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 30,
+    "description": "A compact cheese-and-sandwich stop that feels like a proper Little Italy loot drop.",
+    "mapsQuery": "Casa Della Mozzarella Belmont NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJ-c74yYD0wokRqbdBsNyGRO0",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "belmont-madonia",
+    "name": "Madonia Bakery",
+    "borough": "Bronx",
+    "kingdom": "Belmont",
+    "latitude": 40.857,
+    "longitude": -73.8826,
+    "address": "2348 Arthur Ave, Bronx, NY 10458, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 395,
+    "hoursNote": "Monday: 6:30 AM – 7:00 PM | Tuesday: 6:30 AM – 7:00 PM | Wednesday: 6:30 AM – 7:00 PM | Thursday: 6:30 AM – 7:00 PM | Friday: 6:30 AM – 7:00 PM | Saturday: 6:30 AM – 7:00 PM | Sunday: 7:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Good low-pressure date spot.",
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint."
+    ],
+    "nearbyKingdoms": [
+      "Fordham",
+      "Kingsbridge",
+      "City Island"
+    ],
+    "neighborhood": "Belmont",
+    "type": "dessert",
+    "costLevel": "$",
+    "vibes": [
+      "food-focused",
+      "romantic",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 25,
+    "description": "A classic bakery checkpoint for bread, cookies, and sweet Bronx tradition.",
+    "mapsQuery": "Madonia Bakery Belmont NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJ0amSWof0wokRDOH_B8GxbYM",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "belmont-enzo",
+    "name": "Enzo's of Arthur Avenue",
+    "borough": "Bronx",
+    "kingdom": "Belmont",
+    "latitude": 40.85115,
+    "longitude": -73.8881,
+    "address": "2339 Arthur Ave, Bronx, NY 10458, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 1975,
+    "hoursNote": "Monday: 11:30 AM – 10:00 PM | Tuesday: 11:30 AM – 10:00 PM | Wednesday: 11:30 AM – 10:00 PM | Thursday: 11:30 AM – 10:00 PM | Friday: 11:30 AM – 10:00 PM | Saturday: 11:30 AM – 10:00 PM | Sunday: 12:00 – 9:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Good low-pressure date spot.",
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a Belmont wander."
+    ],
+    "nearbyKingdoms": [
+      "Fordham",
+      "Kingsbridge",
+      "City Island"
+    ],
+    "neighborhood": "Belmont",
+    "type": "food",
+    "costLevel": "$$",
+    "vibes": [
+      "food-focused",
+      "romantic",
+      "relaxed"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 70,
+    "description": "A sit-down red-sauce-style meal stop for a slower Belmont quest.",
+    "mapsQuery": "Enzo's of Arthur Avenue Belmont NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJK-WbWIf0wokRWPsJsVTeOfQ",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "belmont-ciccarone",
+    "name": "Ciccarone Park",
+    "borough": "Bronx",
+    "kingdom": "Belmont",
+    "latitude": 40.8579,
+    "longitude": -73.8826,
+    "address": "2426 Hughes Ave, Bronx, NY 10458, USA",
+    "googleRating": 4.2,
+    "googleReviewCount": 418,
+    "hoursNote": "Monday: 7:00 AM – 6:00 PM | Tuesday: 7:00 AM – 6:00 PM | Wednesday: 7:00 AM – 6:00 PM | Thursday: 7:00 AM – 6:00 PM | Friday: 7:00 AM – 6:00 PM | Saturday: 7:00 AM – 6:00 PM | Sunday: 7:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Check the weather before you go.",
+      "Pairs well with a Belmont wander."
+    ],
+    "nearbyKingdoms": [
+      "Fordham",
+      "Kingsbridge",
+      "City Island"
+    ],
+    "neighborhood": "Belmont",
+    "type": "park",
+    "costLevel": "free",
+    "vibes": [
+      "relaxed",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 25,
+    "description": "A small neighborhood pause point near Arthur Avenue's food-heavy route.",
+    "mapsQuery": "Ciccarone Park Belmont NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJ45Y73YD0wokR6x0q6cvzpEI",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "belmont-calabria",
+    "name": "Calabria Pork Store",
+    "borough": "Bronx",
+    "kingdom": "Belmont",
+    "latitude": 40.85745,
+    "longitude": -73.8859,
+    "address": "2338 Arthur Ave, Bronx, NY 10458, USA",
+    "googleRating": 4.7,
+    "googleReviewCount": 210,
+    "hoursNote": "Monday: 7:00 AM – 5:00 PM | Tuesday: 7:00 AM – 5:00 PM | Wednesday: 7:00 AM – 5:00 PM | Thursday: 7:00 AM – 5:00 PM | Friday: 7:00 AM – 5:00 PM | Saturday: 7:00 AM – 6:00 PM | Sunday: 9:00 AM – 2:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint.",
+      "Great for a more unusual SideQuest."
+    ],
+    "nearbyKingdoms": [
+      "Fordham",
+      "Kingsbridge",
+      "City Island"
+    ],
+    "neighborhood": "Belmont",
+    "type": "market",
+    "costLevel": "$",
+    "vibes": [
+      "food-focused",
+      "weird/quirky",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 25,
+    "description": "A dramatic old-school provisions stop with hanging sausages and strong visual character.",
+    "mapsQuery": "Calabria Pork Store Belmont NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJM-bcXof0wokRL3ynuz5OVCw",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "city-island-orchard-beach",
+    "name": "Orchard Beach Promenade",
+    "borough": "Bronx",
+    "kingdom": "City Island",
+    "latitude": 40.84415,
+    "longitude": -73.7904,
+    "address": "Orchard Beach and Promenade, Park Dr, Bronx, NY 10464, USA",
+    "googleRating": 4.3,
+    "googleReviewCount": 937,
+    "hoursNote": "Monday: 10:00 AM – 6:00 PM | Tuesday: 10:00 AM – 6:00 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 6:00 PM | Friday: 10:00 AM – 6:00 PM | Saturday: 10:00 AM – 6:00 PM | Sunday: 10:00 AM – 6:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Easy to enjoy without a big spend.",
+      "Check the weather before you go."
+    ],
+    "nearbyKingdoms": [
+      "Belmont",
+      "Fordham",
+      "Riverdale"
+    ],
+    "neighborhood": "City Island",
+    "type": "scenic",
+    "costLevel": "free",
+    "vibes": [
+      "scenic",
+      "relaxed",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "outdoor",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 60,
+    "description": "A broad waterfront walk near City Island with beach air and a different borough rhythm.",
+    "mapsQuery": "Orchard Beach Promenade City Island NYC",
+    "sourceNote": "Inspired by NYC Parks-style public-space research.",
+    "googlePlaceId": "ChIJc5ypB2CMwokRy4gB54tRgo0",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "city-island-nautical-museum",
+    "name": "City Island Nautical Museum",
+    "borough": "Bronx",
+    "kingdom": "City Island",
+    "latitude": 40.8473,
+    "longitude": -73.786,
+    "address": "190 Fordham St, Bronx, NY 10464, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 69,
+    "hoursNote": "Monday: Closed | Tuesday: Closed | Wednesday: Closed | Thursday: Closed | Friday: Closed | Saturday: 1:00 – 4:00 PM | Sunday: 1:00 – 4:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Great for a more unusual SideQuest.",
+      "Check ticket details before heading out."
+    ],
+    "nearbyKingdoms": [
+      "Belmont",
+      "Fordham",
+      "Riverdale"
+    ],
+    "neighborhood": "City Island",
+    "type": "museum",
+    "costLevel": "$",
+    "vibes": [
+      "weird/quirky",
+      "tourist",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 45,
+    "description": "A small local museum devoted to boatbuilding, island history, and maritime oddities.",
+    "mapsQuery": "City Island Nautical Museum City Island NYC",
+    "sourceNote": "Inspired by Atlas Obscura-style offbeat NYC discovery.",
+    "googlePlaceId": "ChIJ9w-kN3iMwokRFI504VZutWw",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "city-island-johnny-reef",
+    "name": "Johnny's Reef",
+    "borough": "Bronx",
+    "kingdom": "City Island",
+    "latitude": 40.84955,
+    "longitude": -73.78215,
+    "address": "2 City Island Ave, Bronx, NY 10464, USA",
+    "googleRating": 4.4,
+    "googleReviewCount": 9418,
+    "hoursNote": "Monday: 11:30 AM – 9:30 PM | Tuesday: 11:30 AM – 9:30 PM | Wednesday: 11:30 AM – 9:30 PM | Thursday: 11:30 AM – 9:30 PM | Friday: 11:30 AM – 11:00 PM | Saturday: 11:30 AM – 10:30 PM | Sunday: 11:30 AM – 10:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a City Island wander."
+    ],
+    "nearbyKingdoms": [
+      "Belmont",
+      "Fordham",
+      "Riverdale"
+    ],
+    "neighborhood": "City Island",
+    "type": "food",
+    "costLevel": "$$",
+    "vibes": [
+      "food-focused",
+      "scenic",
+      "tourist"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 60,
+    "description": "A casual seafood stop with water-adjacent energy and classic City Island flavor.",
+    "mapsQuery": "Johnny's Reef City Island NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJh4kgf4-LwokRNpMUb_r4n70",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "city-island-lobster-box",
+    "name": "The Lobster Box",
+    "borough": "Bronx",
+    "kingdom": "City Island",
+    "latitude": 40.8473,
+    "longitude": -73.7893,
+    "address": "691 Bridge St, Bronx, NY 10464, USA",
+    "googleRating": 4.5,
+    "googleReviewCount": 5642,
+    "hoursNote": "Monday: 11:30 AM – 10:30 PM | Tuesday: 11:30 AM – 10:30 PM | Wednesday: 11:30 AM – 10:30 PM | Thursday: 11:30 AM – 10:30 PM | Friday: 11:30 AM – 10:30 PM | Saturday: 11:30 AM – 10:30 PM | Sunday: 12:00 – 10:30 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Best when you have time to linger.",
+      "Good low-pressure date spot.",
+      "Works well as a snack or meal checkpoint."
+    ],
+    "nearbyKingdoms": [
+      "Belmont",
+      "Fordham",
+      "Riverdale"
+    ],
+    "neighborhood": "City Island",
+    "type": "food",
+    "costLevel": "$$$",
+    "vibes": [
+      "romantic",
+      "food-focused",
+      "scenic"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": false,
+    "lowWalking": true,
+    "durationMinutes": 75,
+    "description": "A more polished seafood meal for a scenic splurge-style finale.",
+    "mapsQuery": "The Lobster Box City Island NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJZ1ACO2OMwokRCBSCJTf9140",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "city-island-art-walk",
+    "name": "City Island Gallery Walk",
+    "borough": "Bronx",
+    "kingdom": "City Island",
+    "latitude": 40.85,
+    "longitude": -73.7849,
+    "address": "278 City Island Ave, Bronx, NY 10464, USA",
+    "googleRating": 5,
+    "googleReviewCount": 2,
+    "hoursNote": "Monday: Closed | Tuesday: Closed | Wednesday: 3:00 – 7:00 PM | Thursday: 3:00 – 7:00 PM | Friday: 3:00 – 7:00 PM | Saturday: 3:00 – 7:00 PM | Sunday: 3:00 – 7:00 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Leave room to browse slowly.",
+      "Pairs well with a City Island wander."
+    ],
+    "nearbyKingdoms": [
+      "Belmont",
+      "Fordham",
+      "Riverdale"
+    ],
+    "neighborhood": "City Island",
+    "type": "activity",
+    "costLevel": "free",
+    "vibes": [
+      "artsy",
+      "relaxed",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "both",
+    "alcoholFree": true,
+    "lowWalking": false,
+    "durationMinutes": 45,
+    "description": "A relaxed browse through small galleries, shops, and nautical storefronts.",
+    "mapsQuery": "City Island Gallery Walk City Island NYC",
+    "sourceNote": "Inspired by Secret NYC-style hidden-gem roundups.",
+    "googlePlaceId": "ChIJBeRPj-ONwokRzAT7tiwOXEY",
+    "googlePhotoReference": ""
+  },
+  {
+    "id": "city-island-ice-cream",
+    "name": "Lickety Split Ice Cream",
+    "borough": "Bronx",
+    "kingdom": "City Island",
+    "latitude": 40.84955,
+    "longitude": -73.78215,
+    "address": "295 City Island Ave, Bronx, NY 10464, USA",
+    "googleRating": 5,
+    "googleReviewCount": 1,
+    "hoursNote": "Monday: 2:30 – 8:30 PM | Tuesday: 2:30 – 8:30 PM | Wednesday: 2:30 – 8:30 PM | Thursday: 2:30 – 8:30 PM | Friday: 2:30 – 9:30 PM | Saturday: 12:00 – 9:30 PM | Sunday: 12:00 – 8:30 PM",
+    "photoUrl": "",
+    "localTips": [
+      "Easy to enjoy without a big spend.",
+      "Works well as a snack or meal checkpoint.",
+      "Pairs well with a City Island wander."
+    ],
+    "nearbyKingdoms": [
+      "Belmont",
+      "Fordham",
+      "Riverdale"
+    ],
+    "neighborhood": "City Island",
+    "type": "dessert",
+    "costLevel": "$",
+    "vibes": [
+      "food-focused",
+      "relaxed",
+      "budget-friendly"
+    ],
+    "indoorOutdoor": "indoor",
+    "alcoholFree": true,
+    "lowWalking": true,
+    "durationMinutes": 25,
+    "description": "A simple sweet stop that works after seafood or a waterfront stroll.",
+    "mapsQuery": "Lickety Split Ice Cream City Island NYC",
+    "sourceNote": "Inspired by Eater NY-style neighborhood dining coverage.",
+    "googlePlaceId": "ChIJ_XuXAp-NwokRaG_2Mc6dZEI",
+    "googlePhotoReference": ""
+  }
+]

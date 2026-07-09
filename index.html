@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SideQuest NYC</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero" aria-label="SideQuest NYC. Every day deserves a side quest.">
+    <nav class="topbar" aria-label="Site navigation">
+      <a class="brand" href="#">SideQuest NYC</a>
+      <span class="version-pill">v1.5A quest wizard</span>
+    </nav>
+
+    <div class="hero-image-layer" aria-hidden="true"></div>
+
+    <section class="hero-content">
+      <p class="eyebrow">NYC RPG itinerary generator</p>
+      <h1>SideQuest NYC</h1>
+      <p class="tagline">Every day deserves a side quest.</p>
+      <p class="hero-copy">
+        Answer six quick quest prompts. SideQuest NYC
+        turns local stops into a compact quest sheet for your next city wander.
+      </p>
+    </section>
+  </header>
+
+  <main class="app-shell">
+    <section id="formPanel" class="quest-panel form-panel" aria-labelledby="form-title">
+      <div class="section-heading">
+        <p class="eyebrow">Quest setup</p>
+        <h2 id="form-title">Choose Your Quest</h2>
+        <p class="flavor-text">Consult the city map, tune your party stats, then summon a route from the quest board.</p>
+      </div>
+
+      <form id="adventureForm">
+        <section class="wizard-shell" aria-labelledby="wizard-question">
+          <div class="wizard-topline">
+            <div>
+              <p class="eyebrow">Preparing Quest</p>
+              <h3 id="wizard-question">What kind of quest are you seeking?</h3>
+            </div>
+            <span id="wizardStepLabel" class="wizard-step-label">Stage 1 of 6</span>
+          </div>
+
+          <div class="wizard-progress" aria-hidden="true">
+            <div id="wizardProgressBar"></div>
+          </div>
+
+          <p id="wizardFlavorText" class="wizard-flavor">Consulting local adventurers...</p>
+
+          <div id="wizardCard" class="wizard-card">
+            <div id="wizardOptions" class="wizard-options" aria-live="polite"></div>
+          </div>
+
+          <div class="wizard-nav">
+            <button type="button" id="wizardBackButton" class="secondary-button">Back One Step</button>
+            <span class="wizard-hint">Choose an answer to advance.</span>
+          </div>
+        </section>
+
+        <section class="form-section" aria-labelledby="party-title">
+          <h3 id="party-title"><span aria-hidden="true">⚔</span> Set Your Party</h3>
+          <label class="field">
+            <span>Quest Type</span>
+            <select id="adventureType" name="adventureType">
+              <option>Date</option>
+              <option>Solo</option>
+              <option>Friends</option>
+              <option>Tourist</option>
+            </select>
+          </label>
+        </section>
+
+        <section class="form-section" aria-labelledby="realm-title">
+          <h3 id="realm-title"><span aria-hidden="true">▣</span> Choose Your Realm</h3>
+          <label class="field">
+            <span>Realm</span>
+            <select id="borough" name="borough">
+              <option>Surprise me</option>
+              <option>Manhattan</option>
+              <option>Brooklyn</option>
+              <option>Queens</option>
+              <option>Bronx</option>
+              <option>Staten Island</option>
+            </select>
+          </label>
+
+          <label class="field kingdom-field">
+            <span>Choose Your Kingdom</span>
+            <select id="kingdom" name="kingdom" disabled>
+              <option>Any Kingdom In This Realm</option>
+            </select>
+          </label>
+          <p class="helper-text">Kingdoms are neighborhoods. Pick one for a more local quest.</p>
+        </section>
+
+        <section class="form-section" aria-labelledby="parameters-title">
+          <h3 id="parameters-title"><span aria-hidden="true">✦</span> Quest Parameters</h3>
+          <div class="field-grid">
+            <label class="field">
+              <span>Gold Limit</span>
+              <select id="budget" name="budget">
+                <option>Free</option>
+                <option>Under $25</option>
+                <option selected>Under $50</option>
+                <option>Under $100</option>
+              </select>
+            </label>
+
+            <label class="field">
+              <span>Quest Length</span>
+              <select id="timeLength" name="timeLength">
+                <option>1-2 hours</option>
+                <option selected>3-4 hours</option>
+                <option>Half-day</option>
+                <option>Full-day</option>
+              </select>
+            </label>
+
+            <label class="field">
+              <span>Stamina Level</span>
+              <select id="energy" name="energy">
+                <option>Very chill</option>
+                <option selected>Moderate walking</option>
+                <option>Lots of walking</option>
+                <option>Adventure mode</option>
+              </select>
+            </label>
+
+            <label class="field">
+              <span>Weather Mode</span>
+              <select id="weatherMode" name="weatherMode">
+                <option selected>Clear</option>
+                <option>Rainy</option>
+                <option>Cold</option>
+                <option>Hot</option>
+                <option>Windy</option>
+              </select>
+            </label>
+          </div>
+        </section>
+
+        <section class="form-section" aria-labelledby="vibe-title">
+          <h3 id="vibe-title"><span aria-hidden="true">◆</span> Quest Vibe</h3>
+          <div class="chip-grid" id="vibeChoices">
+            <label><input type="checkbox" value="romantic" checked> Romantic</label>
+            <label><input type="checkbox" value="adventurous"> Adventurous</label>
+            <label><input type="checkbox" value="artsy" checked> Artsy</label>
+            <label><input type="checkbox" value="food-focused"> Food-focused</label>
+            <label><input type="checkbox" value="relaxed"> Relaxed</label>
+            <label><input type="checkbox" value="weird/quirky"> Weird/quirky</label>
+            <label><input type="checkbox" value="scenic"> Scenic</label>
+            <label><input type="checkbox" value="budget-friendly"> Budget-friendly</label>
+          </div>
+        </section>
+
+        <section class="form-section" aria-labelledby="filters-title">
+          <h3 id="filters-title"><span aria-hidden="true">✧</span> Optional Charms</h3>
+          <div class="chip-grid">
+            <label><input type="checkbox" id="noAlcohol"> No alcohol</label>
+            <label><input type="checkbox" id="indoorFriendly"> Indoor-friendly</label>
+            <label><input type="checkbox" id="lowWalking"> Low walking</label>
+          </div>
+        </section>
+
+        <section class="form-section meta-section" aria-labelledby="meta-title">
+          <div class="meta-section-header">
+            <div>
+              <h3 id="meta-title"><span aria-hidden="true">★</span> Featured Meta Quests</h3>
+              <p class="helper-text">Curated legendary quests matching your Realm, Kingdom, vibe, weather, and timed encounters.</p>
+            </div>
+            <button type="button" id="refreshMetaButton" class="secondary-button">Find Meta Quests</button>
+          </div>
+          <div id="metaQuestList" class="meta-quest-list" aria-live="polite"></div>
+        </section>
+
+        <div class="button-row">
+          <button type="submit" class="primary-button">Generate Custom SideQuest</button>
+        </div>
+      </form>
+    </section>
+
+    <section id="loadingPanel" class="quest-panel loading-panel" aria-live="polite" hidden>
+      <div class="loading-orb" aria-hidden="true"></div>
+      <p class="eyebrow">Quest board is working</p>
+      <h2>Preparing your adventure...</h2>
+      <p id="loadingPhrase" class="loading-phrase">Polling NPCs...</p>
+      <div class="progress-track" aria-hidden="true">
+        <div id="progressBar" class="progress-bar"></div>
+      </div>
+      <div class="dot-row" aria-hidden="true">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </section>
+
+    <section id="resultsPanel" class="quest-panel results-panel" aria-live="polite" aria-labelledby="results-title" hidden>
+      <div class="results-heading">
+        <div>
+          <p class="eyebrow">Quest sheet</p>
+          <h2 id="results-title">Your SideQuest</h2>
+          <p class="flavor-text">A quest scroll etched with stops, loot notes, and route distance.</p>
+        </div>
+        <div class="results-actions">
+          <button type="button" id="editButton" class="secondary-button">Edit Quest Preferences</button>
+          <button type="button" id="regenerateButton" class="secondary-button">Reroll Quest</button>
+          <button type="button" id="copyButton" class="copy-button">Copy Quest Scroll</button>
+          <a id="routeButton" class="maps-link route-button" target="_blank" rel="noreferrer" hidden>Open Quest Route</a>
+        </div>
+      </div>
+
+      <div id="statusMessage" class="status-card">
+        Choose your preferences and generate a SideQuest to start.
+      </div>
+
+      <div id="weatherNote" class="weather-note" hidden>Weather mode adjusted this quest.</div>
+
+      <article id="questSummary" class="quest-summary" hidden>
+        <div>
+          <span class="summary-label">Quest Title</span>
+          <span id="questClassification" class="quest-classification"></span>
+          <h3 id="questTitle"></h3>
+        </div>
+        <p id="questDescription"></p>
+        <dl class="summary-grid">
+          <div>
+            <dt>Total Time</dt>
+            <dd id="summaryTime"></dd>
+          </div>
+          <div>
+            <dt>Gold Needed</dt>
+            <dd id="summaryBudget"></dd>
+          </div>
+          <div>
+            <dt>Realm</dt>
+            <dd id="summaryRealm"></dd>
+          </div>
+          <div>
+            <dt>Kingdom</dt>
+            <dd id="summaryKingdom"></dd>
+          </div>
+          <div>
+            <dt>Stamina</dt>
+            <dd id="summaryStamina"></dd>
+          </div>
+          <div>
+            <dt>Route Distance</dt>
+            <dd id="summaryDistance"></dd>
+          </div>
+          <div>
+            <dt>Route Style</dt>
+            <dd id="summaryRouteStyle"></dd>
+          </div>
+        </dl>
+      </article>
+
+      <div id="itineraryStops" class="stops-list"></div>
+    </section>
+  </main>
+
+  <template id="stopTemplate">
+    <article class="stop-card">
+      <div class="stop-photo" aria-hidden="true"></div>
+      <div class="stop-topline">
+        <span class="stop-number"></span>
+        <span class="flavor-label"></span>
+        <span class="stop-type"></span>
+        <span class="match-quality"></span>
+      </div>
+      <h3></h3>
+      <p class="stop-location"></p>
+      <p class="place-rating"></p>
+      <p class="stop-description"></p>
+      <div class="place-meta">
+        <p class="place-address"></p>
+        <p class="place-hours"></p>
+      </div>
+      <ul class="local-tips"></ul>
+      <dl class="stop-details">
+        <div>
+          <dt>Duration</dt>
+          <dd class="stop-duration"></dd>
+        </div>
+        <div>
+          <dt>Cost</dt>
+          <dd class="stop-cost"></dd>
+        </div>
+        <div>
+          <dt>Next Leg</dt>
+          <dd class="stop-leg"></dd>
+        </div>
+      </dl>
+      <div class="stop-actions">
+        <a class="maps-link" target="_blank" rel="noreferrer">Open in Google Maps</a>
+        <button type="button" class="swap-button">Swap Encounter</button>
+      </div>
+    </article>
+  </template>
+
+  <template id="metaQuestTemplate">
+    <article class="meta-quest-card">
+      <div class="stop-topline">
+        <span class="flavor-label">Legendary Quest</span>
+        <span class="meta-status"></span>
+      </div>
+      <h3></h3>
+      <p class="meta-location"></p>
+      <p class="meta-description"></p>
+      <p class="meta-review"></p>
+      <div class="meta-tags"></div>
+      <button type="button" class="primary-button use-meta-button">Use This Meta Quest</button>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
