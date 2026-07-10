@@ -5,6 +5,7 @@ node_modules/
 *.log
 *.zip
 .gh-config/
+.codex-github/
 github-login.ps1
 
 # Local build/history helpers that are useful on this machine but noisy on GitHub.
