@@ -1203,3 +1203,473 @@ button:disabled {
     width: 100%;
   }
 }
+
+/* Visual polish pass: modern product clarity with restrained pixel-RPG texture. */
+:root {
+  --ui-font: Inter, "Segoe UI", system-ui, sans-serif;
+  --pixel-shadow: 4px 4px 0 rgba(0, 0, 0, 0.42);
+  --pixel-shadow-lg: 8px 8px 0 rgba(0, 0, 0, 0.44);
+  --glass: rgba(11, 16, 32, 0.78);
+}
+
+body {
+  font-family: var(--ui-font);
+  background:
+    radial-gradient(circle at 18% 8%, rgba(255, 209, 102, 0.13), transparent 24rem),
+    radial-gradient(circle at 82% 18%, rgba(76, 201, 240, 0.1), transparent 28rem),
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.025) 0 1px, transparent 1px 5px),
+    linear-gradient(135deg, #070b16 0%, #0d1324 48%, #070810 100%);
+}
+
+.eyebrow,
+.wizard-step-label,
+.wizard-shell::before,
+button,
+.maps-link,
+.stop-number,
+.flavor-label,
+.stop-type,
+.match-quality,
+.quest-classification,
+dt {
+  font-family: var(--pixel-font);
+}
+
+.quest-panel {
+  border-color: rgba(255, 209, 102, 0.72);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.055), transparent 28%),
+    repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.018) 0 2px, transparent 2px 8px),
+    var(--glass);
+  box-shadow:
+    0 0 0 2px rgba(12, 18, 34, 0.95),
+    0 0 0 6px rgba(255, 209, 102, 0.13),
+    var(--pixel-shadow-lg),
+    0 26px 80px rgba(0, 0, 0, 0.38);
+}
+
+.section-heading,
+.wizard-shell,
+.quest-summary,
+.status-card,
+.weather-note,
+.meta-quest-card,
+.stop-card {
+  clip-path: polygon(
+    0 10px,
+    10px 10px,
+    10px 0,
+    calc(100% - 10px) 0,
+    calc(100% - 10px) 10px,
+    100% 10px,
+    100% calc(100% - 10px),
+    calc(100% - 10px) calc(100% - 10px),
+    calc(100% - 10px) 100%,
+    10px 100%,
+    10px calc(100% - 10px),
+    0 calc(100% - 10px)
+  );
+}
+
+.section-heading {
+  background:
+    linear-gradient(90deg, rgba(255, 209, 102, 0.14), rgba(76, 201, 240, 0.06)),
+    rgba(7, 11, 22, 0.42);
+}
+
+.wizard-shell {
+  overflow: hidden;
+  border-color: rgba(255, 209, 102, 0.74);
+  background:
+    radial-gradient(circle at 12% 8%, rgba(255, 209, 102, 0.12), transparent 18rem),
+    linear-gradient(135deg, rgba(255, 209, 102, 0.08), rgba(76, 201, 240, 0.055)),
+    rgba(6, 10, 22, 0.72);
+}
+
+.wizard-shell::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
+  background-size: 8px 8px;
+  opacity: 0.32;
+}
+
+.wizard-topline,
+.wizard-card,
+.wizard-nav {
+  position: relative;
+  z-index: 1;
+}
+
+.wizard-card {
+  border-color: rgba(255, 255, 255, 0.13);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.045), rgba(255, 255, 255, 0.015)),
+    rgba(8, 13, 27, 0.82);
+}
+
+.wizard-option,
+.primary-button,
+.secondary-button,
+.copy-button,
+.swap-button,
+.maps-link {
+  position: relative;
+  overflow: hidden;
+  transition:
+    transform 180ms ease,
+    border-color 180ms ease,
+    background-color 180ms ease,
+    box-shadow 180ms ease,
+    color 180ms ease;
+}
+
+.wizard-option::after,
+.primary-button::after,
+.secondary-button::after,
+.copy-button::after,
+.swap-button::after,
+.maps-link::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.12), transparent);
+  transform: translateX(-120%);
+  transition: transform 420ms ease;
+}
+
+.wizard-option:hover::after,
+.primary-button:hover::after,
+.secondary-button:hover::after,
+.copy-button:hover::after,
+.swap-button:hover::after,
+.maps-link:hover::after {
+  transform: translateX(120%);
+}
+
+.wizard-option:hover,
+.primary-button:hover,
+.secondary-button:hover,
+.copy-button:hover,
+.swap-button:hover,
+.maps-link:hover {
+  transform: translate(-2px, -2px);
+  box-shadow:
+    inset 0 0 0 2px rgba(0, 0, 0, 0.25),
+    7px 7px 0 rgba(0, 0, 0, 0.42);
+}
+
+.is-pressed,
+button:active,
+.maps-link:active {
+  transform: translate(2px, 2px) scale(0.99);
+  box-shadow:
+    inset 0 0 0 2px rgba(0, 0, 0, 0.35),
+    2px 2px 0 rgba(0, 0, 0, 0.42);
+}
+
+.loading-panel {
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 50% 24%, rgba(255, 209, 102, 0.14), transparent 18rem),
+    rgba(8, 13, 27, 0.9);
+}
+
+.loading-panel.is-active {
+  animation: panelSummon 460ms ease both;
+}
+
+.loading-orb {
+  border-radius: 0;
+  width: 88px;
+  transform: rotate(45deg);
+  animation: pixelSpin 1.2s steps(12) infinite, pixelGlow 1.8s ease-in-out infinite;
+}
+
+.loading-orb::after {
+  content: "";
+  display: block;
+  width: 38%;
+  aspect-ratio: 1;
+  margin: 31%;
+  background: var(--gold);
+  box-shadow: 0 0 20px rgba(255, 209, 102, 0.7);
+}
+
+.progress-track,
+.wizard-progress {
+  border-radius: 0;
+  overflow: hidden;
+}
+
+.progress-bar {
+  border-radius: 0;
+  background:
+    repeating-linear-gradient(90deg, rgba(0, 0, 0, 0.18) 0 10px, transparent 10px 14px),
+    linear-gradient(90deg, var(--red), var(--gold));
+}
+
+.results-panel.is-revealed {
+  animation: panelSummon 420ms ease both;
+}
+
+.stops-list {
+  gap: 18px;
+}
+
+.stop-card {
+  isolation: isolate;
+  border-color: rgba(255, 209, 102, 0.46);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.055), transparent 34%),
+    radial-gradient(circle at 90% 8%, rgba(76, 201, 240, 0.12), transparent 16rem),
+    rgba(13, 20, 36, 0.96);
+  box-shadow:
+    inset 0 0 0 2px rgba(0, 0, 0, 0.42),
+    var(--pixel-shadow-lg),
+    0 20px 42px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+  transform: translateY(18px);
+  animation: questCardReveal 520ms cubic-bezier(0.2, 0.85, 0.2, 1) var(--reveal-delay, 0ms) both;
+  transition: transform 220ms ease, border-color 220ms ease, box-shadow 220ms ease;
+}
+
+.stop-card:hover {
+  border-color: rgba(255, 209, 102, 0.8);
+  transform: translate(-3px, -5px);
+  box-shadow:
+    inset 0 0 0 2px rgba(0, 0, 0, 0.36),
+    11px 12px 0 rgba(0, 0, 0, 0.44),
+    0 28px 54px rgba(0, 0, 0, 0.28);
+}
+
+.stop-card.is-swapped {
+  animation:
+    questCardReveal 420ms cubic-bezier(0.2, 0.85, 0.2, 1) both,
+    swapPulse 900ms ease 120ms both;
+}
+
+.stop-card::after {
+  content: "";
+  position: absolute;
+  right: 14px;
+  top: 14px;
+  width: 18px;
+  height: 18px;
+  background:
+    linear-gradient(var(--gold), var(--gold)) 50% 0 / 4px 100% no-repeat,
+    linear-gradient(var(--gold), var(--gold)) 0 50% / 100% 4px no-repeat;
+  opacity: 0.78;
+  filter: drop-shadow(0 0 8px rgba(255, 209, 102, 0.35));
+}
+
+.stop-photo {
+  min-height: 150px;
+  image-rendering: auto;
+  overflow: hidden;
+  transform: translateZ(0);
+  transition: transform 260ms ease, filter 260ms ease, border-color 260ms ease;
+}
+
+.stop-card:hover .stop-photo {
+  transform: scale(1.025);
+  filter: saturate(1.08) contrast(1.03);
+  border-color: rgba(255, 209, 102, 0.38);
+}
+
+.stop-photo.placeholder {
+  background:
+    linear-gradient(135deg, rgba(255, 209, 102, 0.14), rgba(76, 201, 240, 0.12)),
+    linear-gradient(45deg, rgba(255, 255, 255, 0.045) 25%, transparent 25% 50%, rgba(255, 255, 255, 0.045) 50% 75%, transparent 75%),
+    rgba(8, 13, 27, 0.9);
+  background-size: auto, 18px 18px, auto;
+}
+
+.stop-topline {
+  gap: 7px;
+}
+
+.stop-number,
+.flavor-label,
+.stop-type,
+.match-quality,
+.meta-status,
+.meta-tags span {
+  border-radius: 0;
+  letter-spacing: 0.035em;
+}
+
+.stop-card h3 {
+  font-family: var(--ui-font);
+  font-size: clamp(1.28rem, 2.1vw, 1.65rem);
+  line-height: 1.12;
+}
+
+.stop-location,
+.place-rating {
+  font-size: 0.92rem;
+}
+
+.stop-description {
+  border-color: rgba(76, 201, 240, 0.26);
+  background: rgba(76, 201, 240, 0.075);
+}
+
+.place-meta {
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.1);
+  background:
+    linear-gradient(90deg, rgba(255, 209, 102, 0.06), transparent),
+    rgba(0, 0, 0, 0.14);
+}
+
+.place-address::before {
+  content: "Address ";
+  color: var(--gold);
+  font-family: var(--pixel-font);
+  font-size: 0.76rem;
+  font-weight: 950;
+  text-transform: uppercase;
+}
+
+.place-hours::before {
+  content: "Hours ";
+  color: var(--green);
+  font-family: var(--pixel-font);
+  font-size: 0.76rem;
+  font-weight: 950;
+  text-transform: uppercase;
+}
+
+.place-address:empty {
+  display: none;
+}
+
+.local-tips li {
+  background: rgba(255, 209, 102, 0.085);
+}
+
+.stop-details div {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.045), transparent),
+    rgba(0, 0, 0, 0.2);
+}
+
+.meta-quest-card {
+  transition: transform 220ms ease, border-color 220ms ease, box-shadow 220ms ease;
+}
+
+.meta-quest-card:hover {
+  transform: translate(-2px, -4px);
+  border-color: rgba(255, 209, 102, 0.78);
+  box-shadow:
+    inset 0 0 0 2px rgba(0, 0, 0, 0.36),
+    9px 10px 0 rgba(0, 0, 0, 0.38);
+}
+
+@keyframes panelSummon {
+  from {
+    opacity: 0;
+    transform: translateY(14px) scale(0.985);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes questCardReveal {
+  0% {
+    opacity: 0;
+    transform: translateY(18px) scale(0.985);
+  }
+
+  70% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes swapPulse {
+  0%,
+  100% {
+    box-shadow:
+      inset 0 0 0 2px rgba(0, 0, 0, 0.42),
+      var(--pixel-shadow-lg),
+      0 20px 42px rgba(0, 0, 0, 0.2);
+  }
+
+  45% {
+    box-shadow:
+      inset 0 0 0 2px rgba(0, 0, 0, 0.42),
+      0 0 0 5px rgba(255, 209, 102, 0.22),
+      12px 12px 0 rgba(0, 0, 0, 0.42),
+      0 0 32px rgba(255, 209, 102, 0.2);
+  }
+}
+
+@keyframes pixelSpin {
+  to {
+    transform: rotate(405deg);
+  }
+}
+
+@keyframes pixelGlow {
+  0%,
+  100% {
+    box-shadow: 0 0 22px rgba(255, 209, 102, 0.18);
+  }
+
+  50% {
+    box-shadow: 0 0 38px rgba(255, 209, 102, 0.36);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+  }
+}
+
+@media (max-width: 900px) {
+  .wizard-options,
+  .stops-list,
+  .summary-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  .wizard-topline,
+  .wizard-nav {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .wizard-card {
+    min-height: 0;
+  }
+
+  .primary-button,
+  .secondary-button,
+  .copy-button,
+  .maps-link,
+  .swap-button {
+    width: 100%;
+  }
+}

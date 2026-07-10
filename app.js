@@ -46,6 +46,7 @@ let loadingTimer = null;
 let phraseTimer = null;
 let currentWizardStep = 0;
 let wizardIsAnimating = false;
+let pendingSwappedIndex = null;
 
 const wizardFlavorMessages = [
   "Consulting local adventurers...",
@@ -846,7 +847,9 @@ function useMetaQuest(metaQuest) {
   lastRelaxedReason = "";
   formPanel.hidden = true;
   loadingPanel.hidden = true;
+  loadingPanel.classList.remove("is-active");
   resultsPanel.hidden = false;
+  resultsPanel.classList.add("is-revealed");
   renderItinerary(currentItinerary, currentPreferences, metaQuest);
   resultsPanel.scrollIntoView({ behavior: "smooth", block: "start" });
 }
@@ -890,6 +893,7 @@ function startQuestGeneration(preferences) {
   formPanel.hidden = true;
   resultsPanel.hidden = true;
   loadingPanel.hidden = false;
+  loadingPanel.classList.add("is-active");
   loadingPhrase.textContent = loadingPhrases[0];
   progressBar.style.width = "0%";
 
@@ -907,7 +911,9 @@ function startQuestGeneration(preferences) {
     progressBar.style.width = "100%";
     buildItinerary(preferences);
     loadingPanel.hidden = true;
+    loadingPanel.classList.remove("is-active");
     resultsPanel.hidden = false;
+    resultsPanel.classList.add("is-revealed");
     resultsPanel.scrollIntoView({ behavior: "smooth", block: "start" });
   }, 3100);
 }
@@ -980,6 +986,28 @@ function formatReviewCount(count) {
   return Number(count).toLocaleString();
 }
 
+function formatTodaysHours(hoursNote) {
+  if (!hoursNote) return "Today: Check current hours before going";
+
+  const dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+  const today = dayNames[new Date().getDay()];
+  const segments = hoursNote
+    .split("|")
+    .map((segment) => segment.trim())
+    .filter(Boolean);
+  const todaySegment = segments.find((segment) => segment.toLowerCase().startsWith(`${today.toLowerCase()}:`));
+
+  if (todaySegment) {
+    const todayHours = todaySegment.replace(/^[^:]+:\s*/, "").trim();
+    if (!todayHours) return "Today: Check current hours before going";
+    if (/closed/i.test(todayHours)) return "Closed Today";
+    return `Open Today: ${todayHours}`;
+  }
+
+  if (/closed/i.test(hoursNote) && !/open/i.test(hoursNote)) return "Closed Today";
+  return "Today: Check current hours before going";
+}
+
 function renderStopPhoto(photoElement, stop) {
   if (stop.photoUrl) {
     photoElement.classList.remove("placeholder");
@@ -1036,6 +1064,9 @@ function renderItinerary(stops, preferences, metaQuest = null) {
 
   stops.forEach((stop, index) => {
     const card = stopTemplate.content.cloneNode(true);
+    const cardElement = card.querySelector(".stop-card");
+    cardElement.style.setProperty("--reveal-delay", `${index * 90}ms`);
+    if (pendingSwappedIndex === index) cardElement.classList.add("is-swapped");
     renderStopPhoto(card.querySelector(".stop-photo"), stop);
     card.querySelector(".stop-number").textContent = `Stop ${index + 1}`;
     card.querySelector(".flavor-label").textContent = getFlavorLabel(stop, index, stops.length);
@@ -1047,8 +1078,8 @@ function renderItinerary(stops, preferences, metaQuest = null) {
       ? `${stop.googleRating.toFixed(1)} ★ · ${formatReviewCount(stop.googleReviewCount)} reviews`
       : "";
     card.querySelector(".stop-description").textContent = formatTags(stop.vibes);
-    card.querySelector(".place-address").textContent = stop.address ? `Address: ${stop.address}` : "";
-    card.querySelector(".place-hours").textContent = stop.hoursNote || "Check current hours before going";
+    card.querySelector(".place-address").textContent = stop.address || "";
+    card.querySelector(".place-hours").textContent = formatTodaysHours(stop.hoursNote);
     renderLocalTips(card.querySelector(".local-tips"), stop.localTips);
     card.querySelector(".stop-duration").textContent = formatDuration(stop.durationMinutes);
     card.querySelector(".stop-cost").textContent = costLabel(stop.costLevel);
@@ -1063,6 +1094,8 @@ function renderItinerary(stops, preferences, metaQuest = null) {
 
     stopsList.appendChild(card);
   });
+
+  pendingSwappedIndex = null;
 }
 
 function getFlavorLabel(stop, index, totalStops) {
@@ -1126,17 +1159,37 @@ function swapStop(index) {
   }
 
   currentItinerary[index] = replacement;
+  pendingSwappedIndex = index;
   renderItinerary(currentItinerary, currentPreferences);
 }
 
 function showForm() {
   clearLoadingTimers();
   loadingPanel.hidden = true;
+  loadingPanel.classList.remove("is-active");
   resultsPanel.hidden = true;
+  resultsPanel.classList.remove("is-revealed");
   formPanel.hidden = false;
   currentWizardStep = 0;
   renderWizardStep();
   formPanel.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+function setupPressFeedback() {
+  const pressableSelector = "button, .maps-link";
+  document.addEventListener("pointerdown", (event) => {
+    const pressable = event.target.closest(pressableSelector);
+    if (!pressable || pressable.disabled) return;
+    pressable.classList.add("is-pressed");
+  });
+
+  ["pointerup", "pointercancel", "pointerleave"].forEach((eventName) => {
+    document.addEventListener(eventName, (event) => {
+      const pressable = event.target.closest(pressableSelector);
+      if (!pressable) return;
+      pressable.classList.remove("is-pressed");
+    });
+  });
 }
 
 function formatDuration(minutes) {
@@ -1183,7 +1236,7 @@ Match: ${getMatchQualityLabel(stop, currentPreferences)}
 Tags: ${formatTags(stop.vibes)}
 Rating: ${stop.googleRating ? `${stop.googleRating.toFixed(1)} stars (${formatReviewCount(stop.googleReviewCount)} reviews)` : "Not available"}
 Address: ${stop.address || "Not available"}
-Hours: ${stop.hoursNote || "Check current hours before going"}
+Hours: ${formatTodaysHours(stop.hoursNote)}
 Local tips: ${(stop.localTips || []).join("; ") || "None listed"}
 Google Place ID: ${stop.googlePlaceId || "Not enriched yet"}
 Next Leg: ${index === 0 ? "Start" : distanceText(getDistanceMiles(currentItinerary[index - 1], stop))}
@@ -1226,6 +1279,7 @@ copyButton.disabled = true;
 
 updateKingdomOptions();
 renderWizardStep();
+setupPressFeedback();
 loadPlaces();
 loadMetaQuests();
 
