@@ -100,8 +100,9 @@ a {
   inset: 0;
   z-index: 0;
   background:
-    linear-gradient(90deg, transparent 0%, transparent 70%, rgba(7, 11, 22, 0.18) 100%),
-    url("assets/sidequest-hero-v2.png") left top/auto 100% no-repeat;
+    linear-gradient(90deg, rgba(4, 9, 22, 0.32) 0%, rgba(4, 9, 22, 0.13) 42%, transparent 68%),
+    linear-gradient(0deg, rgba(4, 9, 22, 0.35) 0%, transparent 42%),
+    url("assets/sidequest-hero-v3.png") left center/cover no-repeat;
   opacity: 1;
 }
 
@@ -161,8 +162,9 @@ a {
 }
 
 .hero-content {
-  display: none;
-  padding-top: 70px;
+  display: block;
+  max-width: 620px;
+  padding-top: clamp(92px, 13vw, 150px);
   text-shadow: 0 3px 22px rgba(0, 0, 0, 0.72);
 }
 
@@ -185,24 +187,36 @@ p {
 h1 {
   max-width: 850px;
   margin: 0;
-  font-size: clamp(3.2rem, 9vw, 7rem);
-  line-height: 0.9;
-  letter-spacing: 0;
+  color: #fffaf0;
+  font-size: clamp(3.1rem, 7.1vw, 6.35rem);
+  font-weight: 950;
+  line-height: 0.86;
+  letter-spacing: 0.025em;
+  text-shadow:
+    4px 0 #171226,
+    -4px 0 #171226,
+    0 4px #171226,
+    0 -4px #171226,
+    7px 7px 0 rgba(0, 0, 0, 0.48),
+    0 0 24px rgba(255, 209, 102, 0.18);
 }
 
 .tagline {
-  margin: 14px 0 0;
+  margin: 18px 0 0;
   color: var(--gold);
-  font-size: clamp(1.35rem, 3vw, 2.1rem);
+  font-size: clamp(1.15rem, 2.3vw, 1.8rem);
   font-weight: 900;
+  letter-spacing: 0.02em;
+  text-shadow: 3px 3px 0 rgba(23, 18, 38, 0.9);
 }
 
 .hero-copy {
-  max-width: 680px;
+  max-width: 490px;
   margin: 18px 0 0;
-  color: var(--muted);
-  font-size: 1.08rem;
-  line-height: 1.7;
+  color: #e3e9f4;
+  font-size: clamp(0.92rem, 1.5vw, 1.04rem);
+  line-height: 1.6;
+  text-shadow: 2px 2px 0 rgba(7, 11, 22, 0.9);
 }
 
 .app-shell {
