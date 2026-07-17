@@ -986,6 +986,18 @@ function formatReviewCount(count) {
   return Number(count).toLocaleString();
 }
 
+// Rarity is presentation-only: it gives each stop a game-like encounter frame
+// without changing how locations are scored or selected.
+function getEncounterRarity(stop, preferences) {
+  const matchRank = getMatchRank(stop, preferences);
+  const rating = stop.googleRating || 0;
+
+  if (rating >= 4.8 && matchRank === "local") return "Legendary";
+  if (rating >= 4.6 || matchRank === "local") return "Rare";
+  if (rating >= 4.3 || matchRank === "nearby") return "Uncommon";
+  return "Common";
+}
+
 function formatTodaysHours(hoursNote) {
   if (!hoursNote) return "Today: Check current hours before going";
 
@@ -1067,9 +1079,12 @@ function renderItinerary(stops, preferences, metaQuest = null) {
     const cardElement = card.querySelector(".stop-card");
     cardElement.style.setProperty("--reveal-delay", `${index * 90}ms`);
     if (pendingSwappedIndex === index) cardElement.classList.add("is-swapped");
+    const rarity = getEncounterRarity(stop, preferences);
+    cardElement.dataset.rarity = rarity.toLowerCase();
     renderStopPhoto(card.querySelector(".stop-photo"), stop);
     card.querySelector(".stop-number").textContent = `Stop ${index + 1}`;
     card.querySelector(".flavor-label").textContent = getFlavorLabel(stop, index, stops.length);
+    card.querySelector(".rarity-label").textContent = rarity;
     card.querySelector(".stop-type").textContent = stop.type;
     card.querySelector(".match-quality").textContent = getMatchQualityLabel(stop, preferences);
     card.querySelector("h3").textContent = stop.name;
