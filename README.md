@@ -542,3 +542,9 @@ Every stop name should exactly match a `name` in `places.json`.
 - Google Places data freshness depends on when `enrichPlaces.js` was last run.
 - Some neighborhoods still have deeper coverage than others.
 - `sourceNote` is a lightweight provenance note, not a live citation system.
+
+## Pixel Art Assets
+
+SideQuest uses a curated set of PNG assets from the Pixel Crawler Free Pack by Anokolisa for decorative quest-board details, including the party sprites, loading campfire, Meta Quest atmosphere, and fallback food visuals. The pack's included terms are preserved at `assets/pixel-crawler/LICENSE.txt`.
+
+The assets are used as supporting UI decoration only; NYC location imagery and itinerary data remain independent of the pack.

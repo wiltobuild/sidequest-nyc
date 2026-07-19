@@ -6,6 +6,7 @@
   <title>SideQuest NYC</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="quest-board.css">
+  <link rel="stylesheet" href="crawler-assets.css">
 </head>
 <body>
   <header class="hero" aria-label="SideQuest NYC. Every day deserves a side quest.">
@@ -27,6 +28,10 @@
       <div class="hero-hud" aria-label="Quest status">
         <span><b>NYC</b> // WORLD MAP</span>
         <span><b>01</b> PLAYER READY</span>
+      </div>
+      <div class="hero-party" aria-hidden="true">
+        <span class="pixel-sprite player-sprite"></span>
+        <span class="pixel-sprite guide-sprite"></span>
       </div>
     </section>
   </header>
@@ -188,6 +193,11 @@
     </section>
 
     <section id="loadingPanel" class="quest-panel loading-panel" aria-live="polite" hidden>
+      <div class="loading-camp" aria-hidden="true">
+        <span class="pixel-sprite player-sprite"></span>
+        <span class="pixel-sprite bonfire-sprite"></span>
+        <span class="pixel-sprite guide-sprite"></span>
+      </div>
       <div class="loading-orb" aria-hidden="true"></div>
       <p class="eyebrow">Quest board is working</p>
       <h2>Preparing your adventure...</h2>

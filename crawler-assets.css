@@ -1,0 +1,205 @@
+/* Curated Pixel Crawler assets by Anokolisa. See assets/pixel-crawler/LICENSE.txt. */
+
+.pixel-sprite {
+  display: inline-block;
+  flex: 0 0 auto;
+  background-repeat: no-repeat;
+  image-rendering: pixelated;
+}
+
+.player-sprite,
+.guide-sprite {
+  width: 64px;
+  height: 64px;
+  background-size: 256px 64px;
+  animation: sprite-idle 1.15s steps(4) infinite;
+}
+
+.player-sprite {
+  background-image: url("assets/pixel-crawler/player-idle.png");
+}
+
+.guide-sprite {
+  background-image: url("assets/pixel-crawler/tavern-guide-idle.png");
+  animation-delay: -0.45s;
+}
+
+.bonfire-sprite {
+  width: 64px;
+  height: 64px;
+  background-image: url("assets/pixel-crawler/bonfire.png");
+  background-size: 64px 384px;
+  animation: bonfire-idle 1.05s steps(6) infinite;
+}
+
+.hero-party {
+  display: flex;
+  align-items: end;
+  gap: 2px;
+  width: fit-content;
+  margin-top: 15px;
+  padding: 3px 7px;
+  border: 1px solid rgba(246, 201, 73, 0.32);
+  background: rgba(5, 9, 19, 0.74);
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.46);
+}
+
+.hero-party::after {
+  content: "YOUR PARTY";
+  align-self: center;
+  margin-left: 5px;
+  color: #a9c9dd;
+  font-family: var(--pixel-font);
+  font-size: 0.5rem;
+  letter-spacing: 0.08em;
+}
+
+.wizard-shell::after {
+  width: 64px;
+  height: 64px;
+  right: 10px;
+  bottom: 8px;
+  background: url("assets/pixel-crawler/player-idle.png") 0 0 / 256px 64px no-repeat;
+  color: transparent;
+  opacity: 0.85;
+  animation: sprite-idle 1.15s steps(4) infinite;
+}
+
+.loading-camp {
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  min-height: 70px;
+  gap: 8px;
+  margin: 4px 0 7px;
+  padding: 3px 18px;
+  border-bottom: 1px solid rgba(246, 201, 73, 0.22);
+  background:
+    linear-gradient(0deg, rgba(227, 75, 79, 0.1), transparent 72%),
+    url("assets/pixel-crawler/tavern-scene.png") center 57% / 280px auto no-repeat;
+}
+
+.loading-camp .player-sprite,
+.loading-camp .guide-sprite {
+  transform: scale(0.88);
+  transform-origin: bottom;
+}
+
+.loading-camp .bonfire-sprite {
+  filter: drop-shadow(0 0 9px rgba(246, 201, 73, 0.42));
+}
+
+.meta-section {
+  position: relative;
+}
+
+.meta-section::after {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  inset: 61px 0 0;
+  pointer-events: none;
+  opacity: 0.05;
+  background: url("assets/pixel-crawler/tavern-scene.png") center top / 420px auto repeat-y;
+  mix-blend-mode: screen;
+}
+
+.meta-section > * {
+  position: relative;
+  z-index: 1;
+}
+
+.meta-quest-card::before {
+  content: "";
+  position: absolute;
+  right: 9px;
+  bottom: 9px;
+  width: 64px;
+  height: 64px;
+  opacity: 0.35;
+  background: url("assets/pixel-crawler/tavern-guide-idle.png") 0 0 / 256px 64px no-repeat;
+  image-rendering: pixelated;
+  animation: sprite-idle 1.15s steps(4) infinite;
+}
+
+.meta-quest-card .primary-button {
+  position: relative;
+  z-index: 1;
+}
+
+.quest-summary .summary-grid div {
+  position: relative;
+  overflow: hidden;
+}
+
+.quest-summary .summary-grid div::after {
+  content: "";
+  position: absolute;
+  right: 4px;
+  bottom: 3px;
+  width: 24px;
+  height: 24px;
+  opacity: 0.34;
+  background-image: url("assets/pixel-crawler/resources.png");
+  background-repeat: no-repeat;
+  background-size: 240px 240px;
+}
+
+.quest-summary .summary-grid div:nth-child(1)::after { background-position: -122px -10px; }
+.quest-summary .summary-grid div:nth-child(2)::after { background-position: -112px -2px; }
+.quest-summary .summary-grid div:nth-child(3)::after { background-position: -4px -77px; }
+.quest-summary .summary-grid div:nth-child(4)::after { background-position: -164px -69px; }
+.quest-summary .summary-grid div:nth-child(5)::after { background-position: -198px -29px; }
+.quest-summary .summary-grid div:nth-child(6)::after { background-position: -47px -32px; }
+.quest-summary .summary-grid div:nth-child(7)::after { background-position: -137px -43px; }
+
+.stop-card[data-stop-type="food"] .stop-photo.placeholder,
+.stop-card[data-stop-type="market"] .stop-photo.placeholder,
+.stop-card[data-stop-type="dessert"] .stop-photo.placeholder {
+  background:
+    linear-gradient(180deg, rgba(5, 9, 19, 0.04), rgba(5, 9, 19, 0.76)),
+    url("assets/pixel-crawler/cooking-station.png") center 40% / 220px auto no-repeat,
+    #18263b;
+}
+
+.stop-card[data-stop-type="coffee"] .stop-photo.placeholder {
+  background:
+    linear-gradient(180deg, rgba(5, 9, 19, 0.02), rgba(5, 9, 19, 0.74)),
+    url("assets/pixel-crawler/bonfire.png") center / 128px 768px no-repeat,
+    #18263b;
+  animation: coffee-fire 1.05s steps(6) infinite;
+}
+
+@keyframes sprite-idle {
+  to { background-position-x: -256px; }
+}
+
+@keyframes bonfire-idle {
+  to { background-position-y: -384px; }
+}
+
+@keyframes coffee-fire {
+  to { background-position: center, center -768px, center; }
+}
+
+@media (max-width: 560px) {
+  .hero-party { margin-top: 11px; }
+
+  .wizard-shell::after {
+    transform: scale(0.72);
+    transform-origin: bottom right;
+  }
+
+  .meta-quest-card::before {
+    opacity: 0.24;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pixel-sprite,
+  .wizard-shell::after,
+  .meta-quest-card::before,
+  .stop-card[data-stop-type="coffee"] .stop-photo.placeholder {
+    animation: none;
+  }
+}

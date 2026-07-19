@@ -1081,6 +1081,7 @@ function renderItinerary(stops, preferences, metaQuest = null) {
     if (pendingSwappedIndex === index) cardElement.classList.add("is-swapped");
     const rarity = getEncounterRarity(stop, preferences);
     cardElement.dataset.rarity = rarity.toLowerCase();
+    cardElement.dataset.stopType = stop.type;
     renderStopPhoto(card.querySelector(".stop-photo"), stop);
     card.querySelector(".stop-number").textContent = `Stop ${index + 1}`;
     card.querySelector(".flavor-label").textContent = getFlavorLabel(stop, index, stops.length);
