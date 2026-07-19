@@ -22,26 +22,19 @@
 }
 
 .city-far {
-  opacity: 0.74;
+  opacity: 0.54;
   background-image: url("assets/city-kit/skyline-sky.png");
-  background-size: auto 46%;
-  animation: city-drift-far 62s linear infinite;
+  background-size: auto 34%;
+  background-position: center calc(100% - 58px);
+  animation: city-drift-far 90s linear infinite alternate;
 }
 
 .city-mid {
-  opacity: 0.94;
+  opacity: 0.92;
   background-image: url("assets/city-kit/skyline-base.png");
-  background-size: auto 40%;
-  animation: city-drift-mid 42s linear infinite;
-}
-
-.city-near {
-  opacity: 0.5;
-  background-image: url("assets/city-kit/building-tiles.png");
-  background-size: auto 37%;
-  background-position: left calc(100% + 16px);
-  mix-blend-mode: screen;
-  animation: city-drift-near 24s linear infinite;
+  background-size: auto 54%;
+  background-position: center bottom;
+  animation: city-drift-mid 64s linear infinite alternate;
 }
 
 .hero::after {
@@ -89,21 +82,16 @@
 }
 
 @keyframes city-drift-far {
-  to { background-position-x: -1024px; }
+  to { background-position-x: calc(50% - 38px); }
 }
 
 @keyframes city-drift-mid {
-  to { background-position-x: -1024px; }
-}
-
-@keyframes city-drift-near {
-  to { background-position-x: -700px; }
+  to { background-position-x: calc(50% + 22px); }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .city-far,
-  .city-mid,
-  .city-near {
+.city-far,
+.city-mid {
     animation: none;
   }
 }
