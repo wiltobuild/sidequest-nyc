@@ -1,0 +1,109 @@
+/* Layered pixel city hero: city kit supplied by the project owner. */
+.hero-image-layer {
+  overflow: hidden;
+  background: #07111f;
+}
+
+.city-layer {
+  position: absolute;
+  inset: 0;
+  display: block;
+  pointer-events: none;
+  background-repeat: repeat-x;
+  background-position: left bottom;
+  image-rendering: pixelated;
+}
+
+.city-sky {
+  background:
+    radial-gradient(circle at 18% 19%, rgba(255, 225, 126, 0.26) 0 2px, transparent 3px),
+    radial-gradient(circle at 72% 13%, rgba(255, 255, 255, 0.45) 0 1px, transparent 2px),
+    linear-gradient(180deg, #071129 0%, #122750 52%, #23517a 100%);
+}
+
+.city-far {
+  opacity: 0.74;
+  background-image: url("assets/city-kit/skyline-sky.png");
+  background-size: auto 46%;
+  animation: city-drift-far 62s linear infinite;
+}
+
+.city-mid {
+  opacity: 0.94;
+  background-image: url("assets/city-kit/skyline-base.png");
+  background-size: auto 40%;
+  animation: city-drift-mid 42s linear infinite;
+}
+
+.city-near {
+  opacity: 0.5;
+  background-image: url("assets/city-kit/building-tiles.png");
+  background-size: auto 37%;
+  background-position: left calc(100% + 16px);
+  mix-blend-mode: screen;
+  animation: city-drift-near 24s linear infinite;
+}
+
+.hero::after {
+  display: block;
+  z-index: 1;
+  background:
+    linear-gradient(90deg, rgba(4, 8, 20, 0.92) 0%, rgba(4, 8, 20, 0.67) 43%, rgba(4, 8, 20, 0.12) 80%),
+    linear-gradient(0deg, rgba(4, 8, 20, 0.73) 0%, transparent 48%);
+}
+
+.topbar,
+.hero-content {
+  z-index: 2;
+}
+
+.quest-panel::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.045;
+  background: url("assets/city-kit/city-tiles.png") left bottom / 320px auto repeat;
+  image-rendering: pixelated;
+}
+
+.quest-panel {
+  position: relative;
+}
+
+.quest-panel > * {
+  position: relative;
+  z-index: 1;
+}
+
+.section-heading::before {
+  content: "";
+  position: absolute;
+  right: 10px;
+  bottom: 0;
+  width: 108px;
+  height: 52px;
+  opacity: 0.16;
+  background: url("assets/city-kit/building-details.png") right bottom / 164px auto no-repeat;
+  image-rendering: pixelated;
+}
+
+@keyframes city-drift-far {
+  to { background-position-x: -1024px; }
+}
+
+@keyframes city-drift-mid {
+  to { background-position-x: -1024px; }
+}
+
+@keyframes city-drift-near {
+  to { background-position-x: -700px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .city-far,
+  .city-mid,
+  .city-near {
+    animation: none;
+  }
+}

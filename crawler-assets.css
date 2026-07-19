@@ -24,6 +24,14 @@
   animation-delay: -0.45s;
 }
 
+.scout-sprite {
+  width: 64px;
+  height: 64px;
+  background-image: url("assets/pixel-crawler/city-scout-idle.png");
+  background-size: 256px 64px;
+  animation: sprite-idle 1.15s steps(4) -0.8s infinite;
+}
+
 .bonfire-sprite {
   width: 64px;
   height: 64px;
@@ -153,33 +161,12 @@
 .quest-summary .summary-grid div:nth-child(6)::after { background-position: -47px -32px; }
 .quest-summary .summary-grid div:nth-child(7)::after { background-position: -137px -43px; }
 
-.stop-card[data-stop-type="food"] .stop-photo.placeholder,
-.stop-card[data-stop-type="market"] .stop-photo.placeholder,
-.stop-card[data-stop-type="dessert"] .stop-photo.placeholder {
-  background:
-    linear-gradient(180deg, rgba(5, 9, 19, 0.04), rgba(5, 9, 19, 0.76)),
-    url("assets/pixel-crawler/cooking-station.png") center 40% / 220px auto no-repeat,
-    #18263b;
-}
-
-.stop-card[data-stop-type="coffee"] .stop-photo.placeholder {
-  background:
-    linear-gradient(180deg, rgba(5, 9, 19, 0.02), rgba(5, 9, 19, 0.74)),
-    url("assets/pixel-crawler/bonfire.png") center / 128px 768px no-repeat,
-    #18263b;
-  animation: coffee-fire 1.05s steps(6) infinite;
-}
-
 @keyframes sprite-idle {
   to { background-position-x: -256px; }
 }
 
 @keyframes bonfire-idle {
   to { background-position-y: -384px; }
-}
-
-@keyframes coffee-fire {
-  to { background-position: center, center -768px, center; }
 }
 
 @media (max-width: 560px) {
